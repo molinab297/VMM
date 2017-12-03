@@ -1,0 +1,1211 @@
+STARTING APP .........
+
+Beginning translation of logical addresses to physical addresses...
+virt: 0x4214 (pg:0x42,off:0x14)---> -----------, ---------- , *IN_BACK_S*,  phys: 0x0014, val:    0	  tlb_Hits:  0
+virt: 0xf41d (pg:0xf4,off:0x1d)---> -----------, ---------- , *IN_BACK_S*,  phys: 0x011d, val:    0	  tlb_Hits:  0
+virt: 0x75f6 (pg:0x75,off:0xf6)---> -----------, ---------- , *IN_BACK_S*,  phys: 0x02f6, val:   29	  tlb_Hits:  0
+virt: 0xd1b3 (pg:0xd1,off:0xb3)---> -----------, ---------- , *IN_BACK_S*,  phys: 0x03b3, val:  108	  tlb_Hits:  0
+virt: 0x9cf9 (pg:0x9c,off:0xf9)---> -----------, ---------- , *IN_BACK_S*,  phys: 0x04f9, val:    0	  tlb_Hits:  0
+
+virt: 0x706d (pg:0x70,off:0x6d)---> -----------, ---------- , *IN_BACK_S*,  phys: 0x056d, val:    0	  tlb_Hits:  0
+virt: 0x5f8e (pg:0x5f,off:0x8e)---> -----------, ---------- , *IN_BACK_S*,  phys: 0x068e, val:   23	  tlb_Hits:  0
+virt: 0xbd0f (pg:0xbd,off:0x f)---> -----------, ---------- , *IN_BACK_S*,  phys: 0x070f, val:   67	  tlb_Hits:  0
+virt: 0xfd2f (pg:0xfd,off:0x2f)---> -----------, ---------- , *IN_BACK_S*,  phys: 0x082f, val:   75	  tlb_Hits:  0
+virt: 0x4777 (pg:0x47,off:0x77)---> -----------, ---------- , *IN_BACK_S*,  phys: 0x0977, val:  -35	  tlb_Hits:  0
+
+virt: 0x2fba (pg:0x2f,off:0xba)---> -----------, ---------- , *IN_BACK_S*,  phys: 0x0aba, val:   11	  tlb_Hits:  0
+virt: 0x58e8 (pg:0x58,off:0xe8)---> -----------, ---------- , *IN_BACK_S*,  phys: 0x0be8, val:    0	  tlb_Hits:  0
+virt: 0xe27e (pg:0xe2,off:0x7e)---> -----------, ---------- , *IN_BACK_S*,  phys: 0x0c7e, val:   56	  tlb_Hits:  0
+virt: 0x6d3e (pg:0x6d,off:0x3e)---> -----------, ---------- , *IN_BACK_S*,  phys: 0x0d3e, val:   27	  tlb_Hits:  0
+virt: 0xd66e (pg:0xd6,off:0x6e)---> -----------, ---------- , *IN_BACK_S*,  phys: 0x0e6e, val:   53	  tlb_Hits:  0
+
+virt: 0x9811 (pg:0x98,off:0x11)---> -----------, ---------- , *IN_BACK_S*,  phys: 0x0f11, val:    0	  tlb_Hits:  0
+virt: 0x8061 (pg:0x80,off:0x61)---> -----------, ---------- , *IN_BACK_S*,  phys: 0x1061, val:    0	  tlb_Hits:  0
+virt: 0xfaf3 (pg:0xfa,off:0xf3)---> -----------, ---------- , *IN_BACK_S*,  phys: 0x11f3, val:  -68	  tlb_Hits:  0
+virt: 0x090b (pg:0x 9,off:0x b)---> -----------, ---------- , *IN_BACK_S*,  phys: 0x120b, val:   66	  tlb_Hits:  0
+virt: 0xfbc6 (pg:0xfb,off:0xc6)---> -----------, ---------- , *IN_BACK_S*,  phys: 0x13c6, val:   62	  tlb_Hits:  0
+
+virt: 0xd701 (pg:0xd7,off:0x 1)---> -----------, ---------- , *IN_BACK_S*,  phys: 0x1401, val:    0	  tlb_Hits:  0
+virt: 0x48c9 (pg:0x48,off:0xc9)---> -----------, ---------- , *IN_BACK_S*,  phys: 0x15c9, val:    0	  tlb_Hits:  0
+virt: 0x38dd (pg:0x38,off:0xdd)---> -----------, ---------- , *IN_BACK_S*,  phys: 0x16dd, val:    0	  tlb_Hits:  0
+virt: 0xee4e (pg:0xee,off:0x4e)---> -----------, ---------- , *IN_BACK_S*,  phys: 0x174e, val:   59	  tlb_Hits:  0
+virt: 0xf497 (pg:0xf4,off:0x97)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x0197, val:   37	  tlb_Hits:  0
+
+virt: 0x1da7 (pg:0x1d,off:0xa7)---> -----------, ---------- , *IN_BACK_S*,  phys: 0x18a7, val:  105	  tlb_Hits:  0
+virt: 0xfceb (pg:0xfc,off:0xeb)---> -----------, ---------- , *IN_BACK_S*,  phys: 0x19eb, val:   58	  tlb_Hits:  0
+virt: 0x1a47 (pg:0x1a,off:0x47)---> -----------, ---------- , *IN_BACK_S*,  phys: 0x1a47, val: -111	  tlb_Hits:  0
+virt: 0x7e3b (pg:0x7e,off:0x3b)---> -----------, ---------- , *IN_BACK_S*,  phys: 0x1b3b, val: -114	  tlb_Hits:  0
+virt: 0xece5 (pg:0xec,off:0xe5)---> -----------, ---------- , *IN_BACK_S*,  phys: 0x1ce5, val:    0	  tlb_Hits:  0
+
+virt: 0x18a4 (pg:0x18,off:0xa4)---> -----------, ---------- , *IN_BACK_S*,  phys: 0x1da4, val:    0	  tlb_Hits:  0
+virt: 0xb278 (pg:0xb2,off:0x78)---> -----------, ---------- , *IN_BACK_S*,  phys: 0x1e78, val:    0	  tlb_Hits:  0
+virt: 0x03c9 (pg:0x 3,off:0xc9)---> -----------, ---------- , *IN_BACK_S*,  phys: 0x1fc9, val:    0	  tlb_Hits:  0
+virt: 0x9fbb (pg:0x9f,off:0xbb)---> -----------, ---------- , *IN_BACK_S*,  phys: 0x20bb, val:  -18	  tlb_Hits:  0
+virt: 0xc08e (pg:0xc0,off:0x8e)---> -----------, ---------- , *IN_BACK_S*,  phys: 0x218e, val:   48	  tlb_Hits:  0
+
+virt: 0xa09e (pg:0xa0,off:0x9e)---> -----------, ---------- , *IN_BACK_S*,  phys: 0x229e, val:   40	  tlb_Hits:  0
+virt: 0x5393 (pg:0x53,off:0x93)---> -----------, ---------- , *IN_BACK_S*,  phys: 0x2393, val:  -28	  tlb_Hits:  0
+virt: 0x17cb (pg:0x17,off:0xcb)---> -----------, ---------- , *IN_BACK_S*,  phys: 0x24cb, val:  -14	  tlb_Hits:  0
+virt: 0x7f1d (pg:0x7f,off:0x1d)---> -----------, ---------- , *IN_BACK_S*,  phys: 0x251d, val:    0	  tlb_Hits:  0
+virt: 0x4501 (pg:0x45,off:0x 1)---> -----------, ---------- , *IN_BACK_S*,  phys: 0x2601, val:    0	  tlb_Hits:  0
+
+virt: 0x0ec8 (pg:0x e,off:0xc8)---> -----------, ---------- , *IN_BACK_S*,  phys: 0x27c8, val:    0	  tlb_Hits:  0
+virt: 0x702e (pg:0x70,off:0x2e)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x052e, val:   28	  tlb_Hits:  0
+virt: 0xe768 (pg:0xe7,off:0x68)---> -----------, ---------- , *IN_BACK_S*,  phys: 0x2868, val:    0	  tlb_Hits:  0
+virt: 0x9cf2 (pg:0x9c,off:0xf2)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x04f2, val:   39	  tlb_Hits:  0
+virt: 0xeab6 (pg:0xea,off:0xb6)---> -----------, ---------- , *IN_BACK_S*,  phys: 0x29b6, val:   58	  tlb_Hits:  0
+
+virt: 0xa50c (pg:0xa5,off:0x c)---> -----------, ---------- , *IN_BACK_S*,  phys: 0x2a0c, val:    0	  tlb_Hits:  0
+virt: 0xaee2 (pg:0xae,off:0xe2)---> -----------, ---------- , *IN_BACK_S*,  phys: 0x2be2, val:   43	  tlb_Hits:  0
+virt: 0x57f2 (pg:0x57,off:0xf2)---> -----------, ---------- , *IN_BACK_S*,  phys: 0x2cf2, val:   21	  tlb_Hits:  0
+virt: 0x0bfb (pg:0x b,off:0xfb)---> -----------, ---------- , *IN_BACK_S*,  phys: 0x2dfb, val:   -2	  tlb_Hits:  0
+virt: 0x3d8d (pg:0x3d,off:0x8d)---> -----------, ---------- , *IN_BACK_S*,  phys: 0x2e8d, val:    0	  tlb_Hits:  0
+
+virt: 0x7ba1 (pg:0x7b,off:0xa1)---> -----------, ---------- , *IN_BACK_S*,  phys: 0x2fa1, val:    0	  tlb_Hits:  0
+virt: 0x2a5a (pg:0x2a,off:0x5a)---> -----------, ---------- , *IN_BACK_S*,  phys: 0x305a, val:   10	  tlb_Hits:  0
+virt: 0xaaf5 (pg:0xaa,off:0xf5)---> -----------, ---------- , *IN_BACK_S*,  phys: 0x31f5, val:    0	  tlb_Hits:  0
+virt: 0x827d (pg:0x82,off:0x7d)---> -----------, ---------- , *IN_BACK_S*,  phys: 0x327d, val:    0	  tlb_Hits:  0
+virt: 0xaf9a (pg:0xaf,off:0x9a)---> -----------, ---------- , *IN_BACK_S*,  phys: 0x339a, val:   43	  tlb_Hits:  0
+
+virt: 0xdd51 (pg:0xdd,off:0x51)---> -----------, ---------- , *IN_BACK_S*,  phys: 0x3451, val:    0	  tlb_Hits:  0
+virt: 0x138b (pg:0x13,off:0x8b)---> -----------, ---------- , *IN_BACK_S*,  phys: 0x358b, val:  -30	  tlb_Hits:  0
+virt: 0xc433 (pg:0xc4,off:0x33)---> -----------, ---------- , *IN_BACK_S*,  phys: 0x3633, val:   12	  tlb_Hits:  0
+virt: 0x4b9e (pg:0x4b,off:0x9e)---> -----------, ---------- , *IN_BACK_S*,  phys: 0x379e, val:   18	  tlb_Hits:  0
+virt: 0x8eb1 (pg:0x8e,off:0xb1)---> -----------, ---------- , *IN_BACK_S*,  phys: 0x38b1, val:    0	  tlb_Hits:  0
+
+virt: 0x2898 (pg:0x28,off:0x98)---> -----------, ---------- , *IN_BACK_S*,  phys: 0x3998, val:    0	  tlb_Hits:  0
+virt: 0xe602 (pg:0xe6,off:0x 2)---> -----------, ---------- , *IN_BACK_S*,  phys: 0x3a02, val:   57	  tlb_Hits:  0
+virt: 0x1409 (pg:0x14,off:0x 9)---> -----------, ---------- , *IN_BACK_S*,  phys: 0x3b09, val:    0	  tlb_Hits:  0
+virt: 0xe4ba (pg:0xe4,off:0xba)---> -----------, ---------- , *IN_BACK_S*,  phys: 0x3cba, val:   57	  tlb_Hits:  0
+virt: 0xe4d8 (pg:0xe4,off:0xd8)--->  *IN_TLB*  , ---------- , -----------,  phys: 0x3cd8, val:    0	  tlb_Hits:  1
+
+virt: 0x6b34 (pg:0x6b,off:0x34)---> -----------, ---------- , *IN_BACK_S*,  phys: 0x3d34, val:    0	  tlb_Hits:  1
+virt: 0xe666 (pg:0xe6,off:0x66)--->  *IN_TLB*  , ---------- , -----------,  phys: 0x3a66, val:   57	  tlb_Hits:  2
+virt: 0xc914 (pg:0xc9,off:0x14)---> -----------, ---------- , *IN_BACK_S*,  phys: 0x3e14, val:    0	  tlb_Hits:  2
+virt: 0x1a8c (pg:0x1a,off:0x8c)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x1a8c, val:    0	  tlb_Hits:  2
+virt: 0x533f (pg:0x53,off:0x3f)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x233f, val:  -49	  tlb_Hits:  2
+
+virt: 0x77f1 (pg:0x77,off:0xf1)---> -----------, ---------- , *IN_BACK_S*,  phys: 0x3ff1, val:    0	  tlb_Hits:  2
+virt: 0x7124 (pg:0x71,off:0x24)---> -----------, ---------- , *IN_BACK_S*,  phys: 0x4024, val:    0	  tlb_Hits:  2
+virt: 0xa02b (pg:0xa0,off:0x2b)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x222b, val:   10	  tlb_Hits:  2
+virt: 0x4f23 (pg:0x4f,off:0x23)---> -----------, ---------- , *IN_BACK_S*,  phys: 0x4123, val:  -56	  tlb_Hits:  2
+virt: 0xe201 (pg:0xe2,off:0x 1)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x0c01, val:    0	  tlb_Hits:  2
+
+virt: 0xf71a (pg:0xf7,off:0x1a)---> -----------, ---------- , *IN_BACK_S*,  phys: 0x421a, val:   61	  tlb_Hits:  2
+virt: 0x8e16 (pg:0x8e,off:0x16)--->  *IN_TLB*  , ---------- , -----------,  phys: 0x3816, val:   35	  tlb_Hits:  3
+virt: 0x02b4 (pg:0x 2,off:0xb4)---> -----------, ---------- , *IN_BACK_S*,  phys: 0x43b4, val:    0	  tlb_Hits:  3
+virt: 0xa871 (pg:0xa8,off:0x71)---> -----------, ---------- , *IN_BACK_S*,  phys: 0x4471, val:    0	  tlb_Hits:  3
+virt: 0xbc00 (pg:0xbc,off:0x 0)---> -----------, ---------- , *IN_BACK_S*,  phys: 0x4500, val:    0	  tlb_Hits:  3
+
+virt: 0x8701 (pg:0x87,off:0x 1)---> -----------, ---------- , *IN_BACK_S*,  phys: 0x4601, val:    0	  tlb_Hits:  3
+virt: 0xc03d (pg:0xc0,off:0x3d)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x213d, val:    0	  tlb_Hits:  3
+virt: 0x903a (pg:0x90,off:0x3a)---> -----------, ---------- , *IN_BACK_S*,  phys: 0x473a, val:   36	  tlb_Hits:  3
+virt: 0xe71a (pg:0xe7,off:0x1a)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x281a, val:   57	  tlb_Hits:  3
+virt: 0xc578 (pg:0xc5,off:0x78)---> -----------, ---------- , *IN_BACK_S*,  phys: 0x4878, val:    0	  tlb_Hits:  3
+
+virt: 0x45ca (pg:0x45,off:0xca)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x26ca, val:   17	  tlb_Hits:  3
+virt: 0x46e1 (pg:0x46,off:0xe1)---> -----------, ---------- , *IN_BACK_S*,  phys: 0x49e1, val:    0	  tlb_Hits:  3
+virt: 0x0f2c (pg:0x f,off:0x2c)---> -----------, ---------- , *IN_BACK_S*,  phys: 0x4a2c, val:    0	  tlb_Hits:  3
+virt: 0xd474 (pg:0xd4,off:0x74)---> -----------, ---------- , *IN_BACK_S*,  phys: 0x4b74, val:    0	  tlb_Hits:  3
+virt: 0xa7b4 (pg:0xa7,off:0xb4)---> -----------, ---------- , *IN_BACK_S*,  phys: 0x4cb4, val:    0	  tlb_Hits:  3
+
+virt: 0xb747 (pg:0xb7,off:0x47)---> -----------, ---------- , *IN_BACK_S*,  phys: 0x4d47, val:  -47	  tlb_Hits:  3
+virt: 0xe60c (pg:0xe6,off:0x c)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x3a0c, val:    0	  tlb_Hits:  3
+virt: 0x21ac (pg:0x21,off:0xac)---> -----------, ---------- , *IN_BACK_S*,  phys: 0x4eac, val:    0	  tlb_Hits:  3
+virt: 0x95c0 (pg:0x95,off:0xc0)---> -----------, ---------- , *IN_BACK_S*,  phys: 0x4fc0, val:    0	  tlb_Hits:  3
+virt: 0xfb65 (pg:0xfb,off:0x65)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x1365, val:    0	  tlb_Hits:  3
+
+virt: 0x5b5b (pg:0x5b,off:0x5b)---> -----------, ---------- , *IN_BACK_S*,  phys: 0x505b, val:  -42	  tlb_Hits:  3
+virt: 0xa688 (pg:0xa6,off:0x88)---> -----------, ---------- , *IN_BACK_S*,  phys: 0x5188, val:    0	  tlb_Hits:  3
+virt: 0x3e29 (pg:0x3e,off:0x29)---> -----------, ---------- , *IN_BACK_S*,  phys: 0x5229, val:    0	  tlb_Hits:  3
+virt: 0x3d3f (pg:0x3d,off:0x3f)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x2e3f, val:   79	  tlb_Hits:  3
+virt: 0x57e5 (pg:0x57,off:0xe5)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x2ce5, val:    0	  tlb_Hits:  3
+
+virt: 0x92a4 (pg:0x92,off:0xa4)---> -----------, ---------- , *IN_BACK_S*,  phys: 0x53a4, val:    0	  tlb_Hits:  3
+virt: 0x1597 (pg:0x15,off:0x97)---> -----------, ---------- , *IN_BACK_S*,  phys: 0x5497, val:  101	  tlb_Hits:  3
+virt: 0xf9b1 (pg:0xf9,off:0xb1)---> -----------, ---------- , *IN_BACK_S*,  phys: 0x55b1, val:    0	  tlb_Hits:  3
+virt: 0xf4fc (pg:0xf4,off:0xfc)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x01fc, val:    0	  tlb_Hits:  3
+virt: 0x806a (pg:0x80,off:0x6a)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x106a, val:   32	  tlb_Hits:  3
+
+virt: 0xfb86 (pg:0xfb,off:0x86)--->  *IN_TLB*  , ---------- , -----------,  phys: 0x1386, val:   62	  tlb_Hits:  4
+virt: 0xf67d (pg:0xf6,off:0x7d)---> -----------, ---------- , *IN_BACK_S*,  phys: 0x567d, val:    0	  tlb_Hits:  4
+virt: 0xf16a (pg:0xf1,off:0x6a)---> -----------, ---------- , *IN_BACK_S*,  phys: 0x576a, val:   60	  tlb_Hits:  4
+virt: 0x4cc0 (pg:0x4c,off:0xc0)---> -----------, ---------- , *IN_BACK_S*,  phys: 0x58c0, val:    0	  tlb_Hits:  4
+virt: 0x7167 (pg:0x71,off:0x67)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x4067, val:   89	  tlb_Hits:  4
+
+virt: 0xafb5 (pg:0xaf,off:0xb5)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x33b5, val:    0	  tlb_Hits:  4
+virt: 0x6dbc (pg:0x6d,off:0xbc)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x0dbc, val:    0	  tlb_Hits:  4
+virt: 0x24e8 (pg:0x24,off:0xe8)---> -----------, ---------- , *IN_BACK_S*,  phys: 0x59e8, val:    0	  tlb_Hits:  4
+virt: 0xaec8 (pg:0xae,off:0xc8)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x2bc8, val:    0	  tlb_Hits:  4
+virt: 0xf038 (pg:0xf0,off:0x38)---> -----------, ---------- , *IN_BACK_S*,  phys: 0x5a38, val:    0	  tlb_Hits:  4
+
+virt: 0x7add (pg:0x7a,off:0xdd)---> -----------, ---------- , *IN_BACK_S*,  phys: 0x5bdd, val:    0	  tlb_Hits:  4
+virt: 0xed4a (pg:0xed,off:0x4a)---> -----------, ---------- , *IN_BACK_S*,  phys: 0x5c4a, val:   59	  tlb_Hits:  4
+virt: 0x2fa7 (pg:0x2f,off:0xa7)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x0aa7, val:  -23	  tlb_Hits:  4
+virt: 0xf32f (pg:0xf3,off:0x2f)---> -----------, ---------- , *IN_BACK_S*,  phys: 0x5d2f, val:  -53	  tlb_Hits:  4
+virt: 0x5521 (pg:0x55,off:0x21)---> -----------, ---------- , *IN_BACK_S*,  phys: 0x5e21, val:    0	  tlb_Hits:  4
+
+virt: 0x67b0 (pg:0x67,off:0xb0)---> -----------, ---------- , *IN_BACK_S*,  phys: 0x5fb0, val:    0	  tlb_Hits:  4
+virt: 0x3a74 (pg:0x3a,off:0x74)---> -----------, ---------- , *IN_BACK_S*,  phys: 0x6074, val:    0	  tlb_Hits:  4
+virt: 0xa1f6 (pg:0xa1,off:0xf6)---> -----------, ---------- , *IN_BACK_S*,  phys: 0x61f6, val:   40	  tlb_Hits:  4
+virt: 0xdb19 (pg:0xdb,off:0x19)---> -----------, ---------- , *IN_BACK_S*,  phys: 0x6219, val:    0	  tlb_Hits:  4
+virt: 0xcb46 (pg:0xcb,off:0x46)---> -----------, ---------- , *IN_BACK_S*,  phys: 0x6346, val:   50	  tlb_Hits:  4
+
+virt: 0xbb6e (pg:0xbb,off:0x6e)---> -----------, ---------- , *IN_BACK_S*,  phys: 0x646e, val:   46	  tlb_Hits:  4
+virt: 0xe85c (pg:0xe8,off:0x5c)---> -----------, ---------- , *IN_BACK_S*,  phys: 0x655c, val:    0	  tlb_Hits:  4
+virt: 0xc6ec (pg:0xc6,off:0xec)---> -----------, ---------- , *IN_BACK_S*,  phys: 0x66ec, val:    0	  tlb_Hits:  4
+virt: 0x1b1e (pg:0x1b,off:0x1e)---> -----------, ---------- , *IN_BACK_S*,  phys: 0x671e, val:    6	  tlb_Hits:  4
+virt: 0x88b6 (pg:0x88,off:0xb6)---> -----------, ---------- , *IN_BACK_S*,  phys: 0x68b6, val:   34	  tlb_Hits:  4
+
+virt: 0x69bd (pg:0x69,off:0xbd)---> -----------, ---------- , *IN_BACK_S*,  phys: 0x69bd, val:    0	  tlb_Hits:  4
+virt: 0xcad6 (pg:0xca,off:0xd6)---> -----------, ---------- , *IN_BACK_S*,  phys: 0x6ad6, val:   50	  tlb_Hits:  4
+virt: 0xece5 (pg:0xec,off:0xe5)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x1ce5, val:    0	  tlb_Hits:  4
+virt: 0xa8ad (pg:0xa8,off:0xad)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x44ad, val:    0	  tlb_Hits:  4
+virt: 0x293f (pg:0x29,off:0x3f)---> -----------, ---------- , *IN_BACK_S*,  phys: 0x6b3f, val:   79	  tlb_Hits:  4
+
+virt: 0x1238 (pg:0x12,off:0x38)---> -----------, ---------- , *IN_BACK_S*,  phys: 0x6c38, val:    0	  tlb_Hits:  4
+virt: 0x6fa2 (pg:0x6f,off:0xa2)---> -----------, ---------- , *IN_BACK_S*,  phys: 0x6da2, val:   27	  tlb_Hits:  4
+virt: 0xe87c (pg:0xe8,off:0x7c)--->  *IN_TLB*  , ---------- , -----------,  phys: 0x657c, val:    0	  tlb_Hits:  5
+virt: 0x9800 (pg:0x98,off:0x 0)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x0f00, val:    0	  tlb_Hits:  5
+virt: 0xf84a (pg:0xf8,off:0x4a)---> -----------, ---------- , *IN_BACK_S*,  phys: 0x6e4a, val:   62	  tlb_Hits:  5
+
+virt: 0xfd4e (pg:0xfd,off:0x4e)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x084e, val:   63	  tlb_Hits:  5
+virt: 0xf5da (pg:0xf5,off:0xda)---> -----------, ---------- , *IN_BACK_S*,  phys: 0x6fda, val:   61	  tlb_Hits:  5
+virt: 0x6a3a (pg:0x6a,off:0x3a)---> -----------, ---------- , *IN_BACK_S*,  phys: 0x703a, val:   26	  tlb_Hits:  5
+virt: 0x7084 (pg:0x70,off:0x84)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x0584, val:    0	  tlb_Hits:  5
+virt: 0xf107 (pg:0xf1,off:0x 7)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x5707, val:   65	  tlb_Hits:  5
+
+virt: 0x2af6 (pg:0x2a,off:0xf6)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x30f6, val:   10	  tlb_Hits:  5
+virt: 0x19c4 (pg:0x19,off:0xc4)---> -----------, ---------- , *IN_BACK_S*,  phys: 0x71c4, val:    0	  tlb_Hits:  5
+virt: 0x9359 (pg:0x93,off:0x59)---> -----------, ---------- , *IN_BACK_S*,  phys: 0x7259, val:    0	  tlb_Hits:  5
+virt: 0xa9a6 (pg:0xa9,off:0xa6)---> -----------, ---------- , *IN_BACK_S*,  phys: 0x73a6, val:   42	  tlb_Hits:  5
+virt: 0x58a4 (pg:0x58,off:0xa4)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x0ba4, val:    0	  tlb_Hits:  5
+
+virt: 0xf5fb (pg:0xf5,off:0xfb)--->  *IN_TLB*  , ---------- , -----------,  phys: 0x6ffb, val:  126	  tlb_Hits:  6
+virt: 0xb815 (pg:0xb8,off:0x15)---> -----------, ---------- , *IN_BACK_S*,  phys: 0x7415, val:    0	  tlb_Hits:  6
+virt: 0xcd29 (pg:0xcd,off:0x29)---> -----------, ---------- , *IN_BACK_S*,  phys: 0x7529, val:    0	  tlb_Hits:  6
+virt: 0x8756 (pg:0x87,off:0x56)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x4656, val:   33	  tlb_Hits:  6
+virt: 0x8079 (pg:0x80,off:0x79)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x1079, val:    0	  tlb_Hits:  6
+
+virt: 0x32ff (pg:0x32,off:0xff)---> -----------, ---------- , *IN_BACK_S*,  phys: 0x76ff, val:  -65	  tlb_Hits:  6
+virt: 0xff88 (pg:0xff,off:0x88)---> -----------, ---------- , *IN_BACK_S*,  phys: 0x7788, val:    0	  tlb_Hits:  6
+virt: 0xf595 (pg:0xf5,off:0x95)--->  *IN_TLB*  , ---------- , -----------,  phys: 0x6f95, val:    0	  tlb_Hits:  7
+virt: 0xdfe2 (pg:0xdf,off:0xe2)---> -----------, ---------- , *IN_BACK_S*,  phys: 0x78e2, val:   55	  tlb_Hits:  7
+virt: 0x3173 (pg:0x31,off:0x73)---> -----------, ---------- , *IN_BACK_S*,  phys: 0x7973, val:   92	  tlb_Hits:  7
+
+virt: 0x36e4 (pg:0x36,off:0xe4)---> -----------, ---------- , *IN_BACK_S*,  phys: 0x7ae4, val:    0	  tlb_Hits:  7
+virt: 0x80bc (pg:0x80,off:0xbc)--->  *IN_TLB*  , ---------- , -----------,  phys: 0x10bc, val:    0	  tlb_Hits:  8
+virt: 0xc079 (pg:0xc0,off:0x79)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x2179, val:    0	  tlb_Hits:  8
+virt: 0xc4b0 (pg:0xc4,off:0xb0)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x36b0, val:    0	  tlb_Hits:  8
+virt: 0xc249 (pg:0xc2,off:0x49)---> -----------, ---------- , *IN_BACK_S*,  phys: 0x7b49, val:    0	  tlb_Hits:  8
+
+virt: 0x3cc3 (pg:0x3c,off:0xc3)---> -----------, ---------- , *IN_BACK_S*,  phys: 0x7cc3, val:   48	  tlb_Hits:  8
+virt: 0xb973 (pg:0xb9,off:0x73)---> -----------, ---------- , *IN_BACK_S*,  phys: 0x7d73, val:   92	  tlb_Hits:  8
+virt: 0x3be0 (pg:0x3b,off:0xe0)---> -----------, ---------- , *IN_BACK_S*,  phys: 0x7ee0, val:    0	  tlb_Hits:  8
+virt: 0x873d (pg:0x87,off:0x3d)--->  *IN_TLB*  , ---------- , -----------,  phys: 0x463d, val:    0	  tlb_Hits:  9
+virt: 0xc8a5 (pg:0xc8,off:0xa5)---> -----------, ---------- , *IN_BACK_S*,  phys: 0x7fa5, val:    0	  tlb_Hits:  9
+
+virt: 0x8034 (pg:0x80,off:0x34)--->  *IN_TLB*  , ---------- , -----------,  phys: 0x1034, val:    0	  tlb_Hits: 10
+virt: 0xbed7 (pg:0xbe,off:0xd7)---> -----------, ---------- , *IN_BACK_S*,  phys: 0x80d7, val:  -75	  tlb_Hits: 10
+virt: 0x2fc0 (pg:0x2f,off:0xc0)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x0ac0, val:    0	  tlb_Hits: 10
+virt: 0x07f3 (pg:0x 7,off:0xf3)---> -----------, ---------- , *IN_BACK_S*,  phys: 0x81f3, val:   -4	  tlb_Hits: 10
+virt: 0xec7b (pg:0xec,off:0x7b)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x1c7b, val:   30	  tlb_Hits: 10
+
+virt: 0x3903 (pg:0x39,off:0x 3)---> -----------, ---------- , *IN_BACK_S*,  phys: 0x8203, val:   64	  tlb_Hits: 10
+virt: 0x361d (pg:0x36,off:0x1d)--->  *IN_TLB*  , ---------- , -----------,  phys: 0x7a1d, val:    0	  tlb_Hits: 11
+virt: 0x5e4f (pg:0x5e,off:0x4f)---> -----------, ---------- , *IN_BACK_S*,  phys: 0x834f, val: -109	  tlb_Hits: 11
+virt: 0x3b70 (pg:0x3b,off:0x70)--->  *IN_TLB*  , ---------- , -----------,  phys: 0x7e70, val:    0	  tlb_Hits: 12
+virt: 0x1fb1 (pg:0x1f,off:0xb1)---> -----------, ---------- , *IN_BACK_S*,  phys: 0x84b1, val:    0	  tlb_Hits: 12
+
+virt: 0x5870 (pg:0x58,off:0x70)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x0b70, val:    0	  tlb_Hits: 12
+virt: 0x80d2 (pg:0x80,off:0xd2)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x10d2, val:   32	  tlb_Hits: 12
+virt: 0x98ef (pg:0x98,off:0xef)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x0fef, val:   59	  tlb_Hits: 12
+virt: 0x4c40 (pg:0x4c,off:0x40)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x5840, val:    0	  tlb_Hits: 12
+virt: 0xe31d (pg:0xe3,off:0x1d)---> -----------, ---------- , *IN_BACK_S*,  phys: 0x851d, val:    0	  tlb_Hits: 12
+
+virt: 0xf9d7 (pg:0xf9,off:0xd7)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x55d7, val:  117	  tlb_Hits: 12
+virt: 0xcf30 (pg:0xcf,off:0x30)---> -----------, ---------- , *IN_BACK_S*,  phys: 0x8630, val:    0	  tlb_Hits: 12
+virt: 0xda22 (pg:0xda,off:0x22)---> -----------, ---------- , *IN_BACK_S*,  phys: 0x8722, val:   54	  tlb_Hits: 12
+virt: 0x0249 (pg:0x 2,off:0x49)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x4349, val:    0	  tlb_Hits: 12
+virt: 0xc81d (pg:0xc8,off:0x1d)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x7f1d, val:    0	  tlb_Hits: 12
+
+virt: 0xfab5 (pg:0xfa,off:0xb5)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x11b5, val:    0	  tlb_Hits: 12
+virt: 0xd65f (pg:0xd6,off:0x5f)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x0e5f, val: -105	  tlb_Hits: 12
+virt: 0x6e32 (pg:0x6e,off:0x32)---> -----------, ---------- , *IN_BACK_S*,  phys: 0x8832, val:   27	  tlb_Hits: 12
+virt: 0x281c (pg:0x28,off:0x1c)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x391c, val:    0	  tlb_Hits: 12
+virt: 0x3c23 (pg:0x3c,off:0x23)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x7c23, val:    8	  tlb_Hits: 12
+
+virt: 0x3254 (pg:0x32,off:0x54)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x7654, val:    0	  tlb_Hits: 12
+virt: 0x0865 (pg:0x 8,off:0x65)---> -----------, ---------- , *IN_BACK_S*,  phys: 0x8965, val:    0	  tlb_Hits: 12
+virt: 0xd0eb (pg:0xd0,off:0xeb)---> -----------, ---------- , *IN_BACK_S*,  phys: 0x8aeb, val:   58	  tlb_Hits: 12
+virt: 0xe8d6 (pg:0xe8,off:0xd6)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x65d6, val:   58	  tlb_Hits: 12
+virt: 0x3a85 (pg:0x3a,off:0x85)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x6085, val:    0	  tlb_Hits: 12
+
+virt: 0x8f40 (pg:0x8f,off:0x40)---> -----------, ---------- , *IN_BACK_S*,  phys: 0x8b40, val:    0	  tlb_Hits: 12
+virt: 0x5a9d (pg:0x5a,off:0x9d)---> -----------, ---------- , *IN_BACK_S*,  phys: 0x8c9d, val:    0	  tlb_Hits: 12
+virt: 0x8ea6 (pg:0x8e,off:0xa6)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x38a6, val:   35	  tlb_Hits: 12
+virt: 0x3431 (pg:0x34,off:0x31)---> -----------, ---------- , *IN_BACK_S*,  phys: 0x8d31, val:    0	  tlb_Hits: 12
+virt: 0x4d62 (pg:0x4d,off:0x62)---> -----------, ---------- , *IN_BACK_S*,  phys: 0x8e62, val:   19	  tlb_Hits: 12
+
+virt: 0x6563 (pg:0x65,off:0x63)---> -----------, ---------- , *IN_BACK_S*,  phys: 0x8f63, val:   88	  tlb_Hits: 12
+virt: 0xf4d6 (pg:0xf4,off:0xd6)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x01d6, val:   61	  tlb_Hits: 12
+virt: 0x65a5 (pg:0x65,off:0xa5)--->  *IN_TLB*  , ---------- , -----------,  phys: 0x8fa5, val:    0	  tlb_Hits: 13
+virt: 0x72e1 (pg:0x72,off:0xe1)---> -----------, ---------- , *IN_BACK_S*,  phys: 0x90e1, val:    0	  tlb_Hits: 13
+virt: 0x94df (pg:0x94,off:0xdf)---> -----------, ---------- , *IN_BACK_S*,  phys: 0x91df, val:   55	  tlb_Hits: 13
+
+virt: 0xe4cd (pg:0xe4,off:0xcd)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x3ccd, val:    0	  tlb_Hits: 13
+virt: 0xde08 (pg:0xde,off:0x 8)---> -----------, ---------- , *IN_BACK_S*,  phys: 0x9208, val:    0	  tlb_Hits: 13
+virt: 0xa15a (pg:0xa1,off:0x5a)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x615a, val:   40	  tlb_Hits: 13
+virt: 0xd49a (pg:0xd4,off:0x9a)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x4b9a, val:   53	  tlb_Hits: 13
+virt: 0x0e21 (pg:0x e,off:0x21)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x2721, val:    0	  tlb_Hits: 13
+
+virt: 0xc5dc (pg:0xc5,off:0xdc)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x48dc, val:    0	  tlb_Hits: 13
+virt: 0xa1ec (pg:0xa1,off:0xec)--->  *IN_TLB*  , ---------- , -----------,  phys: 0x61ec, val:    0	  tlb_Hits: 14
+virt: 0x4f11 (pg:0x4f,off:0x11)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x4111, val:    0	  tlb_Hits: 14
+virt: 0x7beb (pg:0x7b,off:0xeb)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x2feb, val:   -6	  tlb_Hits: 14
+virt: 0xd1f3 (pg:0xd1,off:0xf3)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x03f3, val:  124	  tlb_Hits: 14
+
+virt: 0x6f86 (pg:0x6f,off:0x86)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x6d86, val:   27	  tlb_Hits: 14
+virt: 0x5b6a (pg:0x5b,off:0x6a)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x506a, val:   22	  tlb_Hits: 14
+virt: 0x52d5 (pg:0x52,off:0xd5)---> -----------, ---------- , *IN_BACK_S*,  phys: 0x93d5, val:    0	  tlb_Hits: 14
+virt: 0xdb75 (pg:0xdb,off:0x75)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x6275, val:    0	  tlb_Hits: 14
+virt: 0xe07e (pg:0xe0,off:0x7e)---> -----------, ---------- , *IN_BACK_S*,  phys: 0x947e, val:   56	  tlb_Hits: 14
+
+virt: 0x9bfd (pg:0x9b,off:0xfd)---> -----------, ---------- , *IN_BACK_S*,  phys: 0x95fd, val:    0	  tlb_Hits: 14
+virt: 0x8894 (pg:0x88,off:0x94)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x6894, val:    0	  tlb_Hits: 14
+virt: 0x60cd (pg:0x60,off:0xcd)---> -----------, ---------- , *IN_BACK_S*,  phys: 0x96cd, val:    0	  tlb_Hits: 14
+virt: 0xa313 (pg:0xa3,off:0x13)---> -----------, ---------- , *IN_BACK_S*,  phys: 0x9713, val:  -60	  tlb_Hits: 14
+virt: 0xf464 (pg:0xf4,off:0x64)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x0164, val:    0	  tlb_Hits: 14
+
+virt: 0xe45d (pg:0xe4,off:0x5d)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x3c5d, val:    0	  tlb_Hits: 14
+virt: 0x517a (pg:0x51,off:0x7a)---> -----------, ---------- , *IN_BACK_S*,  phys: 0x987a, val:   20	  tlb_Hits: 14
+virt: 0xc095 (pg:0xc0,off:0x95)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x2195, val:    0	  tlb_Hits: 14
+virt: 0x9e7c (pg:0x9e,off:0x7c)---> -----------, ---------- , *IN_BACK_S*,  phys: 0x997c, val:    0	  tlb_Hits: 14
+virt: 0x5d20 (pg:0x5d,off:0x20)---> -----------, ---------- , *IN_BACK_S*,  phys: 0x9a20, val:    0	  tlb_Hits: 14
+
+virt: 0x89ce (pg:0x89,off:0xce)---> -----------, ---------- , *IN_BACK_S*,  phys: 0x9bce, val:   34	  tlb_Hits: 14
+virt: 0xf5b9 (pg:0xf5,off:0xb9)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x6fb9, val:    0	  tlb_Hits: 14
+virt: 0xdd4a (pg:0xdd,off:0x4a)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x344a, val:   55	  tlb_Hits: 14
+virt: 0x2b8d (pg:0x2b,off:0x8d)---> -----------, ---------- , *IN_BACK_S*,  phys: 0x9c8d, val:    0	  tlb_Hits: 14
+virt: 0x9808 (pg:0x98,off:0x 8)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x0f08, val:    0	  tlb_Hits: 14
+
+virt: 0x5b86 (pg:0x5b,off:0x86)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x5086, val:   22	  tlb_Hits: 14
+virt: 0xe0f8 (pg:0xe0,off:0xf8)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x94f8, val:    0	  tlb_Hits: 14
+virt: 0x0c08 (pg:0x c,off:0x 8)---> -----------, ---------- , *IN_BACK_S*,  phys: 0x9d08, val:    0	  tlb_Hits: 14
+virt: 0x1a15 (pg:0x1a,off:0x15)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x1a15, val:    0	  tlb_Hits: 14
+virt: 0xc610 (pg:0xc6,off:0x10)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x6610, val:    0	  tlb_Hits: 14
+
+virt: 0xcaab (pg:0xca,off:0xab)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x6aab, val:  -86	  tlb_Hits: 14
+virt: 0xf54f (pg:0xf5,off:0x4f)--->  *IN_TLB*  , ---------- , -----------,  phys: 0x6f4f, val:   83	  tlb_Hits: 15
+virt: 0x4edc (pg:0x4e,off:0xdc)---> -----------, ---------- , *IN_BACK_S*,  phys: 0x9edc, val:    0	  tlb_Hits: 15
+virt: 0x04dd (pg:0x 4,off:0xdd)---> -----------, ---------- , *IN_BACK_S*,  phys: 0x9fdd, val:    0	  tlb_Hits: 15
+virt: 0x2fbc (pg:0x2f,off:0xbc)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x0abc, val:    0	  tlb_Hits: 15
+
+virt: 0x44c2 (pg:0x44,off:0xc2)---> -----------, ---------- , *IN_BACK_S*,  phys: 0xa0c2, val:   17	  tlb_Hits: 15
+virt: 0x6fc1 (pg:0x6f,off:0xc1)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x6dc1, val:    0	  tlb_Hits: 15
+virt: 0xa6c6 (pg:0xa6,off:0xc6)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x51c6, val:   41	  tlb_Hits: 15
+virt: 0x7482 (pg:0x74,off:0x82)---> -----------, ---------- , *IN_BACK_S*,  phys: 0xa182, val:   29	  tlb_Hits: 15
+virt: 0x3603 (pg:0x36,off:0x 3)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x7a03, val: -128	  tlb_Hits: 15
+
+virt: 0x6ac8 (pg:0x6a,off:0xc8)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x70c8, val:    0	  tlb_Hits: 15
+virt: 0xd05f (pg:0xd0,off:0x5f)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x8a5f, val:   23	  tlb_Hits: 15
+virt: 0x2d0d (pg:0x2d,off:0x d)---> -----------, ---------- , *IN_BACK_S*,  phys: 0xa20d, val:    0	  tlb_Hits: 15
+virt: 0xa2f1 (pg:0xa2,off:0xf1)---> -----------, ---------- , *IN_BACK_S*,  phys: 0xa3f1, val:    0	  tlb_Hits: 15
+virt: 0x8462 (pg:0x84,off:0x62)---> -----------, ---------- , *IN_BACK_S*,  phys: 0xa462, val:   33	  tlb_Hits: 15
+
+virt: 0x131e (pg:0x13,off:0x1e)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x351e, val:    4	  tlb_Hits: 15
+virt: 0xe0ff (pg:0xe0,off:0xff)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x94ff, val:   63	  tlb_Hits: 15
+virt: 0x0f1e (pg:0x f,off:0x1e)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x4a1e, val:    3	  tlb_Hits: 15
+virt: 0xe4fe (pg:0xe4,off:0xfe)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x3cfe, val:   57	  tlb_Hits: 15
+virt: 0x7454 (pg:0x74,off:0x54)--->  *IN_TLB*  , ---------- , -----------,  phys: 0xa154, val:    0	  tlb_Hits: 16
+
+virt: 0xf459 (pg:0xf4,off:0x59)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x0159, val:    0	  tlb_Hits: 16
+virt: 0x08ff (pg:0x 8,off:0xff)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x89ff, val:   63	  tlb_Hits: 16
+virt: 0xcacb (pg:0xca,off:0xcb)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x6acb, val:  -78	  tlb_Hits: 16
+virt: 0x186b (pg:0x18,off:0x6b)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x1d6b, val:   26	  tlb_Hits: 16
+virt: 0x94db (pg:0x94,off:0xdb)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x91db, val:   54	  tlb_Hits: 16
+
+virt: 0xe7bd (pg:0xe7,off:0xbd)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x28bd, val:    0	  tlb_Hits: 16
+virt: 0xef6f (pg:0xef,off:0x6f)---> -----------, ---------- , *IN_BACK_S*,  phys: 0xa56f, val:  -37	  tlb_Hits: 16
+virt: 0x684b (pg:0x68,off:0x4b)---> -----------, ---------- , *IN_BACK_S*,  phys: 0xa64b, val:   18	  tlb_Hits: 16
+virt: 0xc7f4 (pg:0xc7,off:0xf4)---> -----------, ---------- , *IN_BACK_S*,  phys: 0xa7f4, val:    0	  tlb_Hits: 16
+virt: 0xe87f (pg:0xe8,off:0x7f)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x657f, val:   31	  tlb_Hits: 16
+
+virt: 0x1cb1 (pg:0x1c,off:0xb1)---> -----------, ---------- , *IN_BACK_S*,  phys: 0xa8b1, val:    0	  tlb_Hits: 16
+virt: 0x4f65 (pg:0x4f,off:0x65)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x4165, val:    0	  tlb_Hits: 16
+virt: 0x9ad1 (pg:0x9a,off:0xd1)---> -----------, ---------- , *IN_BACK_S*,  phys: 0xa9d1, val:    0	  tlb_Hits: 16
+virt: 0x061a (pg:0x 6,off:0x1a)---> -----------, ---------- , *IN_BACK_S*,  phys: 0xaa1a, val:    1	  tlb_Hits: 16
+virt: 0x1d9c (pg:0x1d,off:0x9c)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x189c, val:    0	  tlb_Hits: 16
+
+virt: 0x1fea (pg:0x1f,off:0xea)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x84ea, val:    7	  tlb_Hits: 16
+virt: 0xf330 (pg:0xf3,off:0x30)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x5d30, val:    0	  tlb_Hits: 16
+virt: 0x8bef (pg:0x8b,off:0xef)---> -----------, ---------- , *IN_BACK_S*,  phys: 0xabef, val:   -5	  tlb_Hits: 16
+virt: 0x6c8e (pg:0x6c,off:0x8e)---> -----------, ---------- , *IN_BACK_S*,  phys: 0xac8e, val:   27	  tlb_Hits: 16
+virt: 0x3387 (pg:0x33,off:0x87)---> -----------, ---------- , *IN_BACK_S*,  phys: 0xad87, val:  -31	  tlb_Hits: 16
+
+virt: 0x262c (pg:0x26,off:0x2c)---> -----------, ---------- , *IN_BACK_S*,  phys: 0xae2c, val:    0	  tlb_Hits: 16
+virt: 0x1d35 (pg:0x1d,off:0x35)--->  *IN_TLB*  , ---------- , -----------,  phys: 0x1835, val:    0	  tlb_Hits: 17
+virt: 0xada7 (pg:0xad,off:0xa7)---> -----------, ---------- , *IN_BACK_S*,  phys: 0xafa7, val:  105	  tlb_Hits: 17
+virt: 0xe89a (pg:0xe8,off:0x9a)--->  *IN_TLB*  , ---------- , -----------,  phys: 0x659a, val:   58	  tlb_Hits: 18
+virt: 0xc0c3 (pg:0xc0,off:0xc3)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x21c3, val:   48	  tlb_Hits: 18
+
+virt: 0x8ebb (pg:0x8e,off:0xbb)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x38bb, val:  -82	  tlb_Hits: 18
+virt: 0x30a5 (pg:0x30,off:0xa5)---> -----------, ---------- , *IN_BACK_S*,  phys: 0xb0a5, val:    0	  tlb_Hits: 18
+virt: 0xc1e8 (pg:0xc1,off:0xe8)---> -----------, ---------- , *IN_BACK_S*,  phys: 0xb1e8, val:    0	  tlb_Hits: 18
+virt: 0x6e82 (pg:0x6e,off:0x82)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x8882, val:   27	  tlb_Hits: 18
+virt: 0xaf11 (pg:0xaf,off:0x11)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x3311, val:    0	  tlb_Hits: 18
+
+virt: 0x2175 (pg:0x21,off:0x75)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x4e75, val:    0	  tlb_Hits: 18
+virt: 0x400f (pg:0x40,off:0x f)---> -----------, ---------- , *IN_BACK_S*,  phys: 0xb20f, val:    3	  tlb_Hits: 18
+virt: 0xa3ce (pg:0xa3,off:0xce)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x97ce, val:   40	  tlb_Hits: 18
+virt: 0xb191 (pg:0xb1,off:0x91)---> -----------, ---------- , *IN_BACK_S*,  phys: 0xb391, val:    0	  tlb_Hits: 18
+virt: 0x8440 (pg:0x84,off:0x40)---> -----------, *IN_P_TBLE*, -----------,  phys: 0xa440, val:    0	  tlb_Hits: 18
+
+virt: 0x4c2a (pg:0x4c,off:0x2a)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x582a, val:   19	  tlb_Hits: 18
+virt: 0x44fd (pg:0x44,off:0xfd)---> -----------, *IN_P_TBLE*, -----------,  phys: 0xa0fd, val:    0	  tlb_Hits: 18
+virt: 0xf955 (pg:0xf9,off:0x55)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x5555, val:    0	  tlb_Hits: 18
+virt: 0xa432 (pg:0xa4,off:0x32)---> -----------, ---------- , *IN_BACK_S*,  phys: 0xb432, val:   41	  tlb_Hits: 18
+virt: 0x7100 (pg:0x71,off:0x 0)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x4000, val:    0	  tlb_Hits: 18
+
+virt: 0x77f7 (pg:0x77,off:0xf7)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x3ff7, val:   -3	  tlb_Hits: 18
+virt: 0x2260 (pg:0x22,off:0x60)---> -----------, ---------- , *IN_BACK_S*,  phys: 0xb560, val:    0	  tlb_Hits: 18
+virt: 0xcc6f (pg:0xcc,off:0x6f)---> -----------, ---------- , *IN_BACK_S*,  phys: 0xb66f, val:   27	  tlb_Hits: 18
+virt: 0x9777 (pg:0x97,off:0x77)---> -----------, ---------- , *IN_BACK_S*,  phys: 0xb777, val:  -35	  tlb_Hits: 18
+virt: 0xcde0 (pg:0xcd,off:0xe0)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x75e0, val:    0	  tlb_Hits: 18
+
+virt: 0x5f3c (pg:0x5f,off:0x3c)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x063c, val:    0	  tlb_Hits: 18
+virt: 0x4c92 (pg:0x4c,off:0x92)--->  *IN_TLB*  , ---------- , -----------,  phys: 0x5892, val:   19	  tlb_Hits: 19
+virt: 0xe28e (pg:0xe2,off:0x8e)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x0c8e, val:   56	  tlb_Hits: 19
+virt: 0x0b67 (pg:0x b,off:0x67)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x2d67, val:  -39	  tlb_Hits: 19
+virt: 0x20aa (pg:0x20,off:0xaa)---> -----------, ---------- , *IN_BACK_S*,  phys: 0xb8aa, val:    8	  tlb_Hits: 19
+
+virt: 0x45dc (pg:0x45,off:0xdc)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x26dc, val:    0	  tlb_Hits: 19
+virt: 0xb2a9 (pg:0xb2,off:0xa9)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x1ea9, val:    0	  tlb_Hits: 19
+virt: 0xbb16 (pg:0xbb,off:0x16)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x6416, val:   46	  tlb_Hits: 19
+virt: 0xe913 (pg:0xe9,off:0x13)---> -----------, ---------- , *IN_BACK_S*,  phys: 0xb913, val:   68	  tlb_Hits: 19
+virt: 0x2891 (pg:0x28,off:0x91)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x3991, val:    0	  tlb_Hits: 19
+
+virt: 0xce2e (pg:0xce,off:0x2e)---> -----------, ---------- , *IN_BACK_S*,  phys: 0xba2e, val:   51	  tlb_Hits: 19
+virt: 0xfba0 (pg:0xfb,off:0xa0)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x13a0, val:    0	  tlb_Hits: 19
+virt: 0x9ff2 (pg:0x9f,off:0xf2)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x20f2, val:   39	  tlb_Hits: 19
+virt: 0x418a (pg:0x41,off:0x8a)---> -----------, ---------- , *IN_BACK_S*,  phys: 0xbb8a, val:   16	  tlb_Hits: 19
+virt: 0x6a17 (pg:0x6a,off:0x17)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x7017, val: -123	  tlb_Hits: 19
+
+virt: 0x5f04 (pg:0x5f,off:0x 4)--->  *IN_TLB*  , ---------- , -----------,  phys: 0x0604, val:    0	  tlb_Hits: 20
+virt: 0x7ec2 (pg:0x7e,off:0xc2)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x1bc2, val:   31	  tlb_Hits: 20
+virt: 0x2394 (pg:0x23,off:0x94)---> -----------, ---------- , *IN_BACK_S*,  phys: 0xbc94, val:    0	  tlb_Hits: 20
+virt: 0xff19 (pg:0xff,off:0x19)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x7719, val:    0	  tlb_Hits: 20
+virt: 0x4c77 (pg:0x4c,off:0x77)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x5877, val:   29	  tlb_Hits: 20
+
+virt: 0x2b6d (pg:0x2b,off:0x6d)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x9c6d, val:    0	  tlb_Hits: 20
+virt: 0xfe92 (pg:0xfe,off:0x92)---> -----------, ---------- , *IN_BACK_S*,  phys: 0xbd92, val:   63	  tlb_Hits: 20
+virt: 0xe29d (pg:0xe2,off:0x9d)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x0c9d, val:    0	  tlb_Hits: 20
+virt: 0xf0ec (pg:0xf0,off:0xec)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x5aec, val:    0	  tlb_Hits: 20
+virt: 0xf816 (pg:0xf8,off:0x16)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x6e16, val:   62	  tlb_Hits: 20
+
+virt: 0x4432 (pg:0x44,off:0x32)---> -----------, *IN_P_TBLE*, -----------,  phys: 0xa032, val:   17	  tlb_Hits: 20
+virt: 0xd593 (pg:0xd5,off:0x93)---> -----------, ---------- , *IN_BACK_S*,  phys: 0xbe93, val:  100	  tlb_Hits: 20
+virt: 0x06b1 (pg:0x 6,off:0xb1)---> -----------, *IN_P_TBLE*, -----------,  phys: 0xaab1, val:    0	  tlb_Hits: 20
+virt: 0xd741 (pg:0xd7,off:0x41)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x1441, val:    0	  tlb_Hits: 20
+virt: 0xff29 (pg:0xff,off:0x29)--->  *IN_TLB*  , ---------- , -----------,  phys: 0x7729, val:    0	  tlb_Hits: 21
+
+virt: 0xb0de (pg:0xb0,off:0xde)---> -----------, ---------- , *IN_BACK_S*,  phys: 0xbfde, val:   44	  tlb_Hits: 21
+virt: 0x6690 (pg:0x66,off:0x90)---> -----------, ---------- , *IN_BACK_S*,  phys: 0xc090, val:    0	  tlb_Hits: 21
+virt: 0xfac6 (pg:0xfa,off:0xc6)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x11c6, val:   62	  tlb_Hits: 21
+virt: 0x7301 (pg:0x73,off:0x 1)---> -----------, ---------- , *IN_BACK_S*,  phys: 0xc101, val:    0	  tlb_Hits: 21
+virt: 0x0788 (pg:0x 7,off:0x88)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x8188, val:    0	  tlb_Hits: 21
+
+virt: 0x9a01 (pg:0x9a,off:0x 1)---> -----------, *IN_P_TBLE*, -----------,  phys: 0xa901, val:    0	  tlb_Hits: 21
+virt: 0x7d00 (pg:0x7d,off:0x 0)---> -----------, ---------- , *IN_BACK_S*,  phys: 0xc200, val:    0	  tlb_Hits: 21
+virt: 0x6f85 (pg:0x6f,off:0x85)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x6d85, val:    0	  tlb_Hits: 21
+virt: 0xb4d7 (pg:0xb4,off:0xd7)---> -----------, ---------- , *IN_BACK_S*,  phys: 0xc3d7, val:   53	  tlb_Hits: 21
+virt: 0x58f4 (pg:0x58,off:0xf4)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x0bf4, val:    0	  tlb_Hits: 21
+
+virt: 0xe374 (pg:0xe3,off:0x74)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x8574, val:    0	  tlb_Hits: 21
+virt: 0xf825 (pg:0xf8,off:0x25)--->  *IN_TLB*  , ---------- , -----------,  phys: 0x6e25, val:    0	  tlb_Hits: 22
+virt: 0x7f5a (pg:0x7f,off:0x5a)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x255a, val:   31	  tlb_Hits: 22
+virt: 0xb473 (pg:0xb4,off:0x73)--->  *IN_TLB*  , ---------- , -----------,  phys: 0xc373, val:   28	  tlb_Hits: 23
+virt: 0xda29 (pg:0xda,off:0x29)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x8729, val:    0	  tlb_Hits: 23
+
+virt: 0xb576 (pg:0xb5,off:0x76)---> -----------, ---------- , *IN_BACK_S*,  phys: 0xc476, val:   45	  tlb_Hits: 23
+virt: 0x1d3f (pg:0x1d,off:0x3f)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x183f, val:   79	  tlb_Hits: 23
+virt: 0x8457 (pg:0x84,off:0x57)---> -----------, *IN_P_TBLE*, -----------,  phys: 0xa457, val:   21	  tlb_Hits: 23
+virt: 0xa414 (pg:0xa4,off:0x14)---> -----------, *IN_P_TBLE*, -----------,  phys: 0xb414, val:    0	  tlb_Hits: 23
+virt: 0x2197 (pg:0x21,off:0x97)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x4e97, val:  101	  tlb_Hits: 23
+
+virt: 0x48d1 (pg:0x48,off:0xd1)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x15d1, val:    0	  tlb_Hits: 23
+virt: 0xbf77 (pg:0xbf,off:0x77)---> -----------, ---------- , *IN_BACK_S*,  phys: 0xc577, val:  -35	  tlb_Hits: 23
+virt: 0x68ce (pg:0x68,off:0xce)---> -----------, *IN_P_TBLE*, -----------,  phys: 0xa6ce, val:   26	  tlb_Hits: 23
+virt: 0x87c2 (pg:0x87,off:0xc2)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x46c2, val:   33	  tlb_Hits: 23
+virt: 0x394c (pg:0x39,off:0x4c)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x824c, val:    0	  tlb_Hits: 23
+
+virt: 0x95da (pg:0x95,off:0xda)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x4fda, val:   37	  tlb_Hits: 23
+virt: 0x9787 (pg:0x97,off:0x87)---> -----------, *IN_P_TBLE*, -----------,  phys: 0xb787, val:  -31	  tlb_Hits: 23
+virt: 0x104b (pg:0x10,off:0x4b)---> -----------, ---------- , *IN_BACK_S*,  phys: 0xc64b, val:   18	  tlb_Hits: 23
+virt: 0xb397 (pg:0xb3,off:0x97)---> -----------, ---------- , *IN_BACK_S*,  phys: 0xc797, val:  -27	  tlb_Hits: 23
+virt: 0x391f (pg:0x39,off:0x1f)--->  *IN_TLB*  , ---------- , -----------,  phys: 0x821f, val:   71	  tlb_Hits: 24
+
+virt: 0xf3b9 (pg:0xf3,off:0xb9)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x5db9, val:    0	  tlb_Hits: 24
+virt: 0xfc92 (pg:0xfc,off:0x92)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x1992, val:   63	  tlb_Hits: 24
+virt: 0x2ad3 (pg:0x2a,off:0xd3)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x30d3, val:  -76	  tlb_Hits: 24
+virt: 0x2362 (pg:0x23,off:0x62)---> -----------, *IN_P_TBLE*, -----------,  phys: 0xbc62, val:    8	  tlb_Hits: 24
+virt: 0xc757 (pg:0xc7,off:0x57)---> -----------, *IN_P_TBLE*, -----------,  phys: 0xa757, val:  -43	  tlb_Hits: 24
+
+virt: 0x7ea9 (pg:0x7e,off:0xa9)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x1ba9, val:    0	  tlb_Hits: 24
+virt: 0xb1ab (pg:0xb1,off:0xab)---> -----------, *IN_P_TBLE*, -----------,  phys: 0xb3ab, val:  106	  tlb_Hits: 24
+virt: 0xae43 (pg:0xae,off:0x43)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x2b43, val: -112	  tlb_Hits: 24
+virt: 0xf8b0 (pg:0xf8,off:0xb0)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x6eb0, val:    0	  tlb_Hits: 24
+virt: 0xd688 (pg:0xd6,off:0x88)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x0e88, val:    0	  tlb_Hits: 24
+
+virt: 0x1def (pg:0x1d,off:0xef)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x18ef, val:  123	  tlb_Hits: 24
+virt: 0xdca0 (pg:0xdc,off:0xa0)---> -----------, ---------- , *IN_BACK_S*,  phys: 0xc8a0, val:    0	  tlb_Hits: 24
+virt: 0x05d1 (pg:0x 5,off:0xd1)---> -----------, ---------- , *IN_BACK_S*,  phys: 0xc9d1, val:    0	  tlb_Hits: 24
+virt: 0x6f16 (pg:0x6f,off:0x16)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x6d16, val:   27	  tlb_Hits: 24
+virt: 0xffa9 (pg:0xff,off:0xa9)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x77a9, val:    0	  tlb_Hits: 24
+
+virt: 0x3099 (pg:0x30,off:0x99)---> -----------, *IN_P_TBLE*, -----------,  phys: 0xb099, val:    0	  tlb_Hits: 24
+virt: 0xe4a2 (pg:0xe4,off:0xa2)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x3ca2, val:   57	  tlb_Hits: 24
+virt: 0xf852 (pg:0xf8,off:0x52)--->  *IN_TLB*  , ---------- , -----------,  phys: 0x6e52, val:   62	  tlb_Hits: 25
+virt: 0x668b (pg:0x66,off:0x8b)---> -----------, *IN_P_TBLE*, -----------,  phys: 0xc08b, val:  -94	  tlb_Hits: 25
+virt: 0x3e64 (pg:0x3e,off:0x64)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x5264, val:    0	  tlb_Hits: 25
+
+virt: 0x8bf2 (pg:0x8b,off:0xf2)---> -----------, *IN_P_TBLE*, -----------,  phys: 0xabf2, val:   34	  tlb_Hits: 25
+virt: 0x1573 (pg:0x15,off:0x73)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x5473, val:   92	  tlb_Hits: 25
+virt: 0xd3ed (pg:0xd3,off:0xed)---> -----------, ---------- , *IN_BACK_S*,  phys: 0xcaed, val:    0	  tlb_Hits: 25
+virt: 0xc1f7 (pg:0xc1,off:0xf7)---> -----------, *IN_P_TBLE*, -----------,  phys: 0xb1f7, val:  125	  tlb_Hits: 25
+virt: 0x16ec (pg:0x16,off:0xec)---> -----------, ---------- , *IN_BACK_S*,  phys: 0xcbec, val:    0	  tlb_Hits: 25
+
+virt: 0x4ec3 (pg:0x4e,off:0xc3)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x9ec3, val:  -80	  tlb_Hits: 25
+virt: 0xc787 (pg:0xc7,off:0x87)---> -----------, *IN_P_TBLE*, -----------,  phys: 0xa787, val:  -31	  tlb_Hits: 25
+virt: 0x5396 (pg:0x53,off:0x96)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x2396, val:   20	  tlb_Hits: 25
+virt: 0x7ff4 (pg:0x7f,off:0xf4)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x25f4, val:    0	  tlb_Hits: 25
+virt: 0xfac4 (pg:0xfa,off:0xc4)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x11c4, val:    0	  tlb_Hits: 25
+
+virt: 0xa8d2 (pg:0xa8,off:0xd2)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x44d2, val:   42	  tlb_Hits: 25
+virt: 0x544f (pg:0x54,off:0x4f)---> -----------, ---------- , *IN_BACK_S*,  phys: 0xcc4f, val:   19	  tlb_Hits: 25
+virt: 0x61fe (pg:0x61,off:0xfe)---> -----------, ---------- , *IN_BACK_S*,  phys: 0xcdfe, val:   24	  tlb_Hits: 25
+virt: 0xb1cb (pg:0xb1,off:0xcb)---> -----------, *IN_P_TBLE*, -----------,  phys: 0xb3cb, val:  114	  tlb_Hits: 25
+virt: 0x325d (pg:0x32,off:0x5d)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x765d, val:    0	  tlb_Hits: 25
+
+virt: 0x5982 (pg:0x59,off:0x82)---> -----------, ---------- , *IN_BACK_S*,  phys: 0xce82, val:   22	  tlb_Hits: 25
+virt: 0xe659 (pg:0xe6,off:0x59)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x3a59, val:    0	  tlb_Hits: 25
+virt: 0x4e7e (pg:0x4e,off:0x7e)--->  *IN_TLB*  , ---------- , -----------,  phys: 0x9e7e, val:   19	  tlb_Hits: 26
+virt: 0x35a2 (pg:0x35,off:0xa2)---> -----------, ---------- , *IN_BACK_S*,  phys: 0xcfa2, val:   13	  tlb_Hits: 26
+virt: 0xac1b (pg:0xac,off:0x1b)---> -----------, ---------- , *IN_BACK_S*,  phys: 0xd01b, val:    6	  tlb_Hits: 26
+
+virt: 0x7103 (pg:0x71,off:0x 3)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x4003, val:   64	  tlb_Hits: 26
+virt: 0x34dd (pg:0x34,off:0xdd)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x8ddd, val:    0	  tlb_Hits: 26
+virt: 0x816e (pg:0x81,off:0x6e)---> -----------, ---------- , *IN_BACK_S*,  phys: 0xd16e, val:   32	  tlb_Hits: 26
+virt: 0x6f43 (pg:0x6f,off:0x43)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x6d43, val:  -48	  tlb_Hits: 26
+virt: 0x04c4 (pg:0x 4,off:0xc4)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x9fc4, val:    0	  tlb_Hits: 26
+
+virt: 0x951e (pg:0x95,off:0x1e)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x4f1e, val:   37	  tlb_Hits: 26
+virt: 0xd0fe (pg:0xd0,off:0xfe)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x8afe, val:   52	  tlb_Hits: 26
+virt: 0xa940 (pg:0xa9,off:0x40)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x7340, val:    0	  tlb_Hits: 26
+virt: 0x136a (pg:0x13,off:0x6a)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x356a, val:    4	  tlb_Hits: 26
+virt: 0x1f9a (pg:0x1f,off:0x9a)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x849a, val:    7	  tlb_Hits: 26
+
+virt: 0x0a65 (pg:0x a,off:0x65)---> -----------, ---------- , *IN_BACK_S*,  phys: 0xd265, val:    0	  tlb_Hits: 26
+virt: 0xd28f (pg:0xd2,off:0x8f)---> -----------, ---------- , *IN_BACK_S*,  phys: 0xd38f, val:  -93	  tlb_Hits: 26
+virt: 0x2b11 (pg:0x2b,off:0x11)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x9c11, val:    0	  tlb_Hits: 26
+virt: 0x6803 (pg:0x68,off:0x 3)---> -----------, *IN_P_TBLE*, -----------,  phys: 0xa603, val:    0	  tlb_Hits: 26
+virt: 0x46c5 (pg:0x46,off:0xc5)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x49c5, val:    0	  tlb_Hits: 26
+
+virt: 0x38a9 (pg:0x38,off:0xa9)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x16a9, val:    0	  tlb_Hits: 26
+virt: 0xf058 (pg:0xf0,off:0x58)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x5a58, val:    0	  tlb_Hits: 26
+virt: 0x4fc7 (pg:0x4f,off:0xc7)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x41c7, val:  -15	  tlb_Hits: 26
+virt: 0x6952 (pg:0x69,off:0x52)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x6952, val:   26	  tlb_Hits: 26
+virt: 0x8e28 (pg:0x8e,off:0x28)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x3828, val:    0	  tlb_Hits: 26
+
+virt: 0x2c65 (pg:0x2c,off:0x65)---> -----------, ---------- , *IN_BACK_S*,  phys: 0xd465, val:    0	  tlb_Hits: 26
+virt: 0xc6c2 (pg:0xc6,off:0xc2)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x66c2, val:   49	  tlb_Hits: 26
+virt: 0xa2c4 (pg:0xa2,off:0xc4)---> -----------, *IN_P_TBLE*, -----------,  phys: 0xa3c4, val:    0	  tlb_Hits: 26
+virt: 0x7721 (pg:0x77,off:0x21)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x3f21, val:    0	  tlb_Hits: 26
+virt: 0x8d78 (pg:0x8d,off:0x78)---> -----------, ---------- , *IN_BACK_S*,  phys: 0xd578, val:    0	  tlb_Hits: 26
+
+virt: 0x15f3 (pg:0x15,off:0xf3)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x54f3, val:  124	  tlb_Hits: 26
+virt: 0x9077 (pg:0x90,off:0x77)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x4777, val:   29	  tlb_Hits: 26
+virt: 0xe8a5 (pg:0xe8,off:0xa5)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x65a5, val:    0	  tlb_Hits: 26
+virt: 0x8f37 (pg:0x8f,off:0x37)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x8b37, val:  -51	  tlb_Hits: 26
+virt: 0x8e54 (pg:0x8e,off:0x54)--->  *IN_TLB*  , ---------- , -----------,  phys: 0x3854, val:    0	  tlb_Hits: 27
+
+virt: 0x90c1 (pg:0x90,off:0xc1)--->  *IN_TLB*  , ---------- , -----------,  phys: 0x47c1, val:    0	  tlb_Hits: 28
+virt: 0x5c21 (pg:0x5c,off:0x21)---> -----------, ---------- , *IN_BACK_S*,  phys: 0xd621, val:    0	  tlb_Hits: 28
+virt: 0xe5a7 (pg:0xe5,off:0xa7)---> -----------, ---------- , *IN_BACK_S*,  phys: 0xd7a7, val:  105	  tlb_Hits: 28
+virt: 0xb64a (pg:0xb6,off:0x4a)---> -----------, ---------- , *IN_BACK_S*,  phys: 0xd84a, val:   45	  tlb_Hits: 28
+virt: 0xfbdb (pg:0xfb,off:0xdb)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x13db, val:  -10	  tlb_Hits: 28
+
+virt: 0x546f (pg:0x54,off:0x6f)---> -----------, *IN_P_TBLE*, -----------,  phys: 0xcc6f, val:   27	  tlb_Hits: 28
+virt: 0xa082 (pg:0xa0,off:0x82)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x2282, val:   40	  tlb_Hits: 28
+virt: 0x06eb (pg:0x 6,off:0xeb)---> -----------, *IN_P_TBLE*, -----------,  phys: 0xaaeb, val:  -70	  tlb_Hits: 28
+virt: 0xb999 (pg:0xb9,off:0x99)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x7d99, val:    0	  tlb_Hits: 28
+virt: 0x99aa (pg:0x99,off:0xaa)---> -----------, ---------- , *IN_BACK_S*,  phys: 0xd9aa, val:   38	  tlb_Hits: 28
+
+virt: 0x056e (pg:0x 5,off:0x6e)---> -----------, *IN_P_TBLE*, -----------,  phys: 0xc96e, val:    1	  tlb_Hits: 28
+virt: 0x9774 (pg:0x97,off:0x74)---> -----------, *IN_P_TBLE*, -----------,  phys: 0xb774, val:    0	  tlb_Hits: 28
+virt: 0xe325 (pg:0xe3,off:0x25)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x8525, val:    0	  tlb_Hits: 28
+virt: 0x1c1c (pg:0x1c,off:0x1c)---> -----------, *IN_P_TBLE*, -----------,  phys: 0xa81c, val:    0	  tlb_Hits: 28
+virt: 0x23a3 (pg:0x23,off:0xa3)---> -----------, *IN_P_TBLE*, -----------,  phys: 0xbca3, val:  -24	  tlb_Hits: 28
+
+virt: 0x1d43 (pg:0x1d,off:0x43)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x1843, val:   80	  tlb_Hits: 28
+virt: 0xf498 (pg:0xf4,off:0x98)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x0198, val:    0	  tlb_Hits: 28
+virt: 0x3c4c (pg:0x3c,off:0x4c)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x7c4c, val:    0	  tlb_Hits: 28
+virt: 0x4453 (pg:0x44,off:0x53)---> -----------, *IN_P_TBLE*, -----------,  phys: 0xa053, val:   20	  tlb_Hits: 28
+virt: 0xd198 (pg:0xd1,off:0x98)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x0398, val:    0	  tlb_Hits: 28
+
+virt: 0x6751 (pg:0x67,off:0x51)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x5f51, val:    0	  tlb_Hits: 28
+virt: 0x8877 (pg:0x88,off:0x77)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x6877, val:   29	  tlb_Hits: 28
+virt: 0x4d98 (pg:0x4d,off:0x98)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x8e98, val:    0	  tlb_Hits: 28
+virt: 0xc8bc (pg:0xc8,off:0xbc)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x7fbc, val:    0	  tlb_Hits: 28
+virt: 0x3b33 (pg:0x3b,off:0x33)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x7e33, val:  -52	  tlb_Hits: 28
+
+virt: 0xfd07 (pg:0xfd,off:0x 7)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x0807, val:   65	  tlb_Hits: 28
+virt: 0xbb61 (pg:0xbb,off:0x61)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x6461, val:    0	  tlb_Hits: 28
+virt: 0x3fbb (pg:0x3f,off:0xbb)---> -----------, ---------- , *IN_BACK_S*,  phys: 0xdabb, val:  -18	  tlb_Hits: 28
+virt: 0x053e (pg:0x 5,off:0x3e)---> -----------, *IN_P_TBLE*, -----------,  phys: 0xc93e, val:    1	  tlb_Hits: 28
+virt: 0xc7f1 (pg:0xc7,off:0xf1)---> -----------, *IN_P_TBLE*, -----------,  phys: 0xa7f1, val:    0	  tlb_Hits: 28
+
+virt: 0x179b (pg:0x17,off:0x9b)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x249b, val:  -26	  tlb_Hits: 28
+virt: 0x5396 (pg:0x53,off:0x96)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x2396, val:   20	  tlb_Hits: 28
+virt: 0x0cc9 (pg:0x c,off:0xc9)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x9dc9, val:    0	  tlb_Hits: 28
+virt: 0x249a (pg:0x24,off:0x9a)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x599a, val:    9	  tlb_Hits: 28
+virt: 0x8a87 (pg:0x8a,off:0x87)---> -----------, ---------- , *IN_BACK_S*,  phys: 0xdb87, val:  -95	  tlb_Hits: 28
+
+virt: 0x6e2d (pg:0x6e,off:0x2d)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x882d, val:    0	  tlb_Hits: 28
+virt: 0x092f (pg:0x 9,off:0x2f)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x122f, val:   75	  tlb_Hits: 28
+virt: 0x7147 (pg:0x71,off:0x47)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x4047, val:   81	  tlb_Hits: 28
+virt: 0xba53 (pg:0xba,off:0x53)---> -----------, ---------- , *IN_BACK_S*,  phys: 0xdc53, val: -108	  tlb_Hits: 28
+virt: 0xb716 (pg:0xb7,off:0x16)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x4d16, val:   45	  tlb_Hits: 28
+
+virt: 0x5727 (pg:0x57,off:0x27)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x2c27, val:  -55	  tlb_Hits: 28
+virt: 0x566c (pg:0x56,off:0x6c)---> -----------, ---------- , *IN_BACK_S*,  phys: 0xdd6c, val:    0	  tlb_Hits: 28
+virt: 0x579b (pg:0x57,off:0x9b)--->  *IN_TLB*  , ---------- , -----------,  phys: 0x2c9b, val:  -26	  tlb_Hits: 29
+virt: 0xc0c0 (pg:0xc0,off:0xc0)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x21c0, val:    0	  tlb_Hits: 29
+virt: 0x5ab8 (pg:0x5a,off:0xb8)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x8cb8, val:    0	  tlb_Hits: 29
+
+virt: 0x158a (pg:0x15,off:0x8a)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x548a, val:    5	  tlb_Hits: 29
+virt: 0x5018 (pg:0x50,off:0x18)---> -----------, ---------- , *IN_BACK_S*,  phys: 0xde18, val:    0	  tlb_Hits: 29
+virt: 0x0178 (pg:0x 1,off:0x78)---> -----------, ---------- , *IN_BACK_S*,  phys: 0xdf78, val:    0	  tlb_Hits: 29
+virt: 0x07de (pg:0x 7,off:0xde)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x81de, val:    1	  tlb_Hits: 29
+virt: 0x972c (pg:0x97,off:0x2c)---> -----------, *IN_P_TBLE*, -----------,  phys: 0xb72c, val:    0	  tlb_Hits: 29
+
+virt: 0x332a (pg:0x33,off:0x2a)---> -----------, *IN_P_TBLE*, -----------,  phys: 0xad2a, val:   12	  tlb_Hits: 29
+virt: 0xf3e3 (pg:0xf3,off:0xe3)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x5de3, val:   -8	  tlb_Hits: 29
+virt: 0xbbae (pg:0xbb,off:0xae)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x64ae, val:   46	  tlb_Hits: 29
+virt: 0xf7e8 (pg:0xf7,off:0xe8)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x42e8, val:    0	  tlb_Hits: 29
+virt: 0x31fe (pg:0x31,off:0xfe)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x79fe, val:   12	  tlb_Hits: 29
+
+virt: 0xc7ea (pg:0xc7,off:0xea)---> -----------, *IN_P_TBLE*, -----------,  phys: 0xa7ea, val:   49	  tlb_Hits: 29
+virt: 0x21b3 (pg:0x21,off:0xb3)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x4eb3, val:  108	  tlb_Hits: 29
+virt: 0x69cb (pg:0x69,off:0xcb)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x69cb, val:  114	  tlb_Hits: 29
+virt: 0xb85e (pg:0xb8,off:0x5e)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x745e, val:   46	  tlb_Hits: 29
+virt: 0xabf5 (pg:0xab,off:0xf5)---> -----------, ---------- , *IN_BACK_S*,  phys: 0xe0f5, val:    0	  tlb_Hits: 29
+
+virt: 0x8018 (pg:0x80,off:0x18)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x1018, val:    0	  tlb_Hits: 29
+virt: 0xabdc (pg:0xab,off:0xdc)--->  *IN_TLB*  , ---------- , -----------,  phys: 0xe0dc, val:    0	  tlb_Hits: 30
+virt: 0xa0a6 (pg:0xa0,off:0xa6)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x22a6, val:   40	  tlb_Hits: 30
+virt: 0xfaf4 (pg:0xfa,off:0xf4)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x11f4, val:    0	  tlb_Hits: 30
+virt: 0x90b7 (pg:0x90,off:0xb7)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x47b7, val:   45	  tlb_Hits: 30
+
+virt: 0xeb79 (pg:0xeb,off:0x79)---> -----------, ---------- , *IN_BACK_S*,  phys: 0xe179, val:    0	  tlb_Hits: 30
+virt: 0xcea8 (pg:0xce,off:0xa8)---> -----------, *IN_P_TBLE*, -----------,  phys: 0xbaa8, val:    0	  tlb_Hits: 30
+virt: 0x1e58 (pg:0x1e,off:0x58)---> -----------, ---------- , *IN_BACK_S*,  phys: 0xe258, val:    0	  tlb_Hits: 30
+virt: 0xd83f (pg:0xd8,off:0x3f)---> -----------, ---------- , *IN_BACK_S*,  phys: 0xe33f, val:   15	  tlb_Hits: 30
+virt: 0x0c9e (pg:0x c,off:0x9e)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x9d9e, val:    3	  tlb_Hits: 30
+
+virt: 0xaf0d (pg:0xaf,off:0x d)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x330d, val:    0	  tlb_Hits: 30
+virt: 0x1014 (pg:0x10,off:0x14)---> -----------, *IN_P_TBLE*, -----------,  phys: 0xc614, val:    0	  tlb_Hits: 30
+virt: 0xfec6 (pg:0xfe,off:0xc6)---> -----------, *IN_P_TBLE*, -----------,  phys: 0xbdc6, val:   63	  tlb_Hits: 30
+virt: 0x6db3 (pg:0x6d,off:0xb3)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x0db3, val:  108	  tlb_Hits: 30
+virt: 0xecf4 (pg:0xec,off:0xf4)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x1cf4, val:    0	  tlb_Hits: 30
+
+virt: 0x0027 (pg:0x 0,off:0x27)---> -----------, ---------- , *IN_BACK_S*,  phys: 0xe427, val:    9	  tlb_Hits: 30
+virt: 0x0148 (pg:0x 1,off:0x48)---> -----------, *IN_P_TBLE*, -----------,  phys: 0xdf48, val:    0	  tlb_Hits: 30
+virt: 0xbafc (pg:0xba,off:0xfc)---> -----------, *IN_P_TBLE*, -----------,  phys: 0xdcfc, val:    0	  tlb_Hits: 30
+virt: 0x32d1 (pg:0x32,off:0xd1)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x76d1, val:    0	  tlb_Hits: 30
+virt: 0x576a (pg:0x57,off:0x6a)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x2c6a, val:   21	  tlb_Hits: 30
+
+virt: 0x9988 (pg:0x99,off:0x88)---> -----------, *IN_P_TBLE*, -----------,  phys: 0xd988, val:    0	  tlb_Hits: 30
+virt: 0x2ba3 (pg:0x2b,off:0xa3)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x9ca3, val:  -24	  tlb_Hits: 30
+virt: 0x1f8f (pg:0x1f,off:0x8f)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x848f, val:  -29	  tlb_Hits: 30
+virt: 0xce8f (pg:0xce,off:0x8f)---> -----------, *IN_P_TBLE*, -----------,  phys: 0xba8f, val:  -93	  tlb_Hits: 30
+virt: 0x1403 (pg:0x14,off:0x 3)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x3b03, val:    0	  tlb_Hits: 30
+
+virt: 0x1104 (pg:0x11,off:0x 4)---> -----------, ---------- , *IN_BACK_S*,  phys: 0xe504, val:    0	  tlb_Hits: 30
+virt: 0xb2b1 (pg:0xb2,off:0xb1)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x1eb1, val:    0	  tlb_Hits: 30
+virt: 0x80b8 (pg:0x80,off:0xb8)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x10b8, val:    0	  tlb_Hits: 30
+virt: 0x1231 (pg:0x12,off:0x31)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x6c31, val:    0	  tlb_Hits: 30
+virt: 0x5e4e (pg:0x5e,off:0x4e)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x834e, val:   23	  tlb_Hits: 30
+
+virt: 0x5b17 (pg:0x5b,off:0x17)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x5017, val:  -59	  tlb_Hits: 30
+virt: 0x3527 (pg:0x35,off:0x27)---> -----------, *IN_P_TBLE*, -----------,  phys: 0xcf27, val:   73	  tlb_Hits: 30
+virt: 0xb4e0 (pg:0xb4,off:0xe0)---> -----------, *IN_P_TBLE*, -----------,  phys: 0xc3e0, val:    0	  tlb_Hits: 30
+virt: 0x450d (pg:0x45,off:0x d)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x260d, val:    0	  tlb_Hits: 30
+virt: 0xe92b (pg:0xe9,off:0x2b)---> -----------, *IN_P_TBLE*, -----------,  phys: 0xb92b, val:   74	  tlb_Hits: 30
+
+virt: 0xc717 (pg:0xc7,off:0x17)---> -----------, *IN_P_TBLE*, -----------,  phys: 0xa717, val:  -59	  tlb_Hits: 30
+virt: 0x1e89 (pg:0x1e,off:0x89)---> -----------, *IN_P_TBLE*, -----------,  phys: 0xe289, val:    0	  tlb_Hits: 30
+virt: 0x2161 (pg:0x21,off:0x61)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x4e61, val:    0	  tlb_Hits: 30
+virt: 0xd801 (pg:0xd8,off:0x 1)---> -----------, *IN_P_TBLE*, -----------,  phys: 0xe301, val:    0	  tlb_Hits: 30
+virt: 0xceda (pg:0xce,off:0xda)--->  *IN_TLB*  , ---------- , -----------,  phys: 0xbada, val:   51	  tlb_Hits: 31
+
+virt: 0x9b28 (pg:0x9b,off:0x28)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x9528, val:    0	  tlb_Hits: 31
+virt: 0x4817 (pg:0x48,off:0x17)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x1517, val:    5	  tlb_Hits: 31
+virt: 0x768d (pg:0x76,off:0x8d)---> -----------, ---------- , *IN_BACK_S*,  phys: 0xe68d, val:    0	  tlb_Hits: 31
+virt: 0xf726 (pg:0xf7,off:0x26)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x4226, val:   61	  tlb_Hits: 31
+virt: 0x6a14 (pg:0x6a,off:0x14)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x7014, val:    0	  tlb_Hits: 31
+
+virt: 0x5086 (pg:0x50,off:0x86)---> -----------, *IN_P_TBLE*, -----------,  phys: 0xde86, val:   20	  tlb_Hits: 31
+virt: 0x4bac (pg:0x4b,off:0xac)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x37ac, val:    0	  tlb_Hits: 31
+virt: 0xbe31 (pg:0xbe,off:0x31)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x8031, val:    0	  tlb_Hits: 31
+virt: 0xc0ea (pg:0xc0,off:0xea)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x21ea, val:   48	  tlb_Hits: 31
+virt: 0xc598 (pg:0xc5,off:0x98)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x4898, val:    0	  tlb_Hits: 31
+
+virt: 0xcae0 (pg:0xca,off:0xe0)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x6ae0, val:    0	  tlb_Hits: 31
+virt: 0x8791 (pg:0x87,off:0x91)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x4691, val:    0	  tlb_Hits: 31
+virt: 0x3555 (pg:0x35,off:0x55)---> -----------, *IN_P_TBLE*, -----------,  phys: 0xcf55, val:    0	  tlb_Hits: 31
+virt: 0xc39d (pg:0xc3,off:0x9d)---> -----------, ---------- , *IN_BACK_S*,  phys: 0xe79d, val:    0	  tlb_Hits: 31
+virt: 0xd4f6 (pg:0xd4,off:0xf6)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x4bf6, val:   53	  tlb_Hits: 31
+
+virt: 0xa20a (pg:0xa2,off:0x a)---> -----------, *IN_P_TBLE*, -----------,  phys: 0xa30a, val:   40	  tlb_Hits: 31
+virt: 0x1049 (pg:0x10,off:0x49)---> -----------, *IN_P_TBLE*, -----------,  phys: 0xc649, val:    0	  tlb_Hits: 31
+virt: 0x8d16 (pg:0x8d,off:0x16)---> -----------, *IN_P_TBLE*, -----------,  phys: 0xd516, val:   35	  tlb_Hits: 31
+virt: 0x2570 (pg:0x25,off:0x70)---> -----------, ---------- , *IN_BACK_S*,  phys: 0xe870, val:    0	  tlb_Hits: 31
+virt: 0x483a (pg:0x48,off:0x3a)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x153a, val:   18	  tlb_Hits: 31
+
+virt: 0xd87c (pg:0xd8,off:0x7c)---> -----------, *IN_P_TBLE*, -----------,  phys: 0xe37c, val:    0	  tlb_Hits: 31
+virt: 0x164c (pg:0x16,off:0x4c)---> -----------, *IN_P_TBLE*, -----------,  phys: 0xcb4c, val:    0	  tlb_Hits: 31
+virt: 0x5bd2 (pg:0x5b,off:0xd2)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x50d2, val:   22	  tlb_Hits: 31
+virt: 0x3c1f (pg:0x3c,off:0x1f)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x7c1f, val:    7	  tlb_Hits: 31
+virt: 0x8e10 (pg:0x8e,off:0x10)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x3810, val:    0	  tlb_Hits: 31
+
+virt: 0x9840 (pg:0x98,off:0x40)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x0f40, val:    0	  tlb_Hits: 31
+virt: 0xc4e6 (pg:0xc4,off:0xe6)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x36e6, val:   49	  tlb_Hits: 31
+virt: 0xc054 (pg:0xc0,off:0x54)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x2154, val:    0	  tlb_Hits: 31
+virt: 0xfe0b (pg:0xfe,off:0x b)---> -----------, *IN_P_TBLE*, -----------,  phys: 0xbd0b, val: -126	  tlb_Hits: 31
+virt: 0x75a8 (pg:0x75,off:0xa8)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x02a8, val:    0	  tlb_Hits: 31
+
+virt: 0xf457 (pg:0xf4,off:0x57)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x0157, val:   21	  tlb_Hits: 31
+virt: 0xb6d9 (pg:0xb6,off:0xd9)---> -----------, *IN_P_TBLE*, -----------,  phys: 0xd8d9, val:    0	  tlb_Hits: 31
+virt: 0x54b7 (pg:0x54,off:0xb7)---> -----------, *IN_P_TBLE*, -----------,  phys: 0xccb7, val:   45	  tlb_Hits: 31
+virt: 0xd24f (pg:0xd2,off:0x4f)---> -----------, *IN_P_TBLE*, -----------,  phys: 0xd34f, val: -109	  tlb_Hits: 31
+virt: 0x0832 (pg:0x 8,off:0x32)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x8932, val:    2	  tlb_Hits: 31
+
+virt: 0x304c (pg:0x30,off:0x4c)---> -----------, *IN_P_TBLE*, -----------,  phys: 0xb04c, val:    0	  tlb_Hits: 31
+virt: 0xb136 (pg:0xb1,off:0x36)---> -----------, *IN_P_TBLE*, -----------,  phys: 0xb336, val:   44	  tlb_Hits: 31
+virt: 0xc505 (pg:0xc5,off:0x 5)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x4805, val:    0	  tlb_Hits: 31
+virt: 0x8f43 (pg:0x8f,off:0x43)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x8b43, val:  -48	  tlb_Hits: 31
+virt: 0xd856 (pg:0xd8,off:0x56)---> -----------, *IN_P_TBLE*, -----------,  phys: 0xe356, val:   54	  tlb_Hits: 31
+
+virt: 0x2e46 (pg:0x2e,off:0x46)---> -----------, ---------- , *IN_BACK_S*,  phys: 0xe946, val:   11	  tlb_Hits: 31
+virt: 0xbfe7 (pg:0xbf,off:0xe7)---> -----------, *IN_P_TBLE*, -----------,  phys: 0xc5e7, val:   -7	  tlb_Hits: 31
+virt: 0x4dbc (pg:0x4d,off:0xbc)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x8ebc, val:    0	  tlb_Hits: 31
+virt: 0x504a (pg:0x50,off:0x4a)---> -----------, *IN_P_TBLE*, -----------,  phys: 0xde4a, val:   20	  tlb_Hits: 31
+virt: 0x4b13 (pg:0x4b,off:0x13)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x3713, val:  -60	  tlb_Hits: 31
+
+virt: 0xc91b (pg:0xc9,off:0x1b)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x3e1b, val:   70	  tlb_Hits: 31
+virt: 0xe2ea (pg:0xe2,off:0xea)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x0cea, val:   56	  tlb_Hits: 31
+virt: 0x98a2 (pg:0x98,off:0xa2)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x0fa2, val:   38	  tlb_Hits: 31
+virt: 0x3ebc (pg:0x3e,off:0xbc)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x52bc, val:    0	  tlb_Hits: 31
+virt: 0x28cf (pg:0x28,off:0xcf)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x39cf, val:   51	  tlb_Hits: 31
+
+virt: 0xd399 (pg:0xd3,off:0x99)---> -----------, *IN_P_TBLE*, -----------,  phys: 0xca99, val:    0	  tlb_Hits: 31
+virt: 0x509a (pg:0x50,off:0x9a)--->  *IN_TLB*  , ---------- , -----------,  phys: 0xde9a, val:   20	  tlb_Hits: 32
+virt: 0xe0d3 (pg:0xe0,off:0xd3)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x94d3, val:   52	  tlb_Hits: 32
+virt: 0xef1a (pg:0xef,off:0x1a)---> -----------, *IN_P_TBLE*, -----------,  phys: 0xa51a, val:   59	  tlb_Hits: 32
+virt: 0x010d (pg:0x 1,off:0x d)---> -----------, *IN_P_TBLE*, -----------,  phys: 0xdf0d, val:    0	  tlb_Hits: 32
+
+virt: 0x8182 (pg:0x81,off:0x82)---> -----------, *IN_P_TBLE*, -----------,  phys: 0xd182, val:   32	  tlb_Hits: 32
+virt: 0xfbe7 (pg:0xfb,off:0xe7)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x13e7, val:   -7	  tlb_Hits: 32
+virt: 0xef27 (pg:0xef,off:0x27)--->  *IN_TLB*  , ---------- , -----------,  phys: 0xa527, val:  -55	  tlb_Hits: 33
+virt: 0xb8bc (pg:0xb8,off:0xbc)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x74bc, val:    0	  tlb_Hits: 33
+virt: 0x555c (pg:0x55,off:0x5c)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x5e5c, val:    0	  tlb_Hits: 33
+
+virt: 0x14a1 (pg:0x14,off:0xa1)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x3ba1, val:    0	  tlb_Hits: 33
+virt: 0xb358 (pg:0xb3,off:0x58)---> -----------, *IN_P_TBLE*, -----------,  phys: 0xc758, val:    0	  tlb_Hits: 33
+virt: 0x7f14 (pg:0x7f,off:0x14)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x2514, val:    0	  tlb_Hits: 33
+virt: 0xf65b (pg:0xf6,off:0x5b)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x565b, val: -106	  tlb_Hits: 33
+virt: 0xa2d3 (pg:0xa2,off:0xd3)---> -----------, *IN_P_TBLE*, -----------,  phys: 0xa3d3, val:  -76	  tlb_Hits: 33
+
+virt: 0x51f5 (pg:0x51,off:0xf5)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x98f5, val:    0	  tlb_Hits: 33
+virt: 0x8459 (pg:0x84,off:0x59)---> -----------, *IN_P_TBLE*, -----------,  phys: 0xa459, val:    0	  tlb_Hits: 33
+virt: 0xa339 (pg:0xa3,off:0x39)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x9739, val:    0	  tlb_Hits: 33
+virt: 0x11e4 (pg:0x11,off:0xe4)---> -----------, *IN_P_TBLE*, -----------,  phys: 0xe5e4, val:    0	  tlb_Hits: 33
+virt: 0xa1ad (pg:0xa1,off:0xad)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x61ad, val:    0	  tlb_Hits: 33
+
+virt: 0x6f9c (pg:0x6f,off:0x9c)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x6d9c, val:    0	  tlb_Hits: 33
+virt: 0x030e (pg:0x 3,off:0x e)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x1f0e, val:    0	  tlb_Hits: 33
+virt: 0x7641 (pg:0x76,off:0x41)---> -----------, *IN_P_TBLE*, -----------,  phys: 0xe641, val:    0	  tlb_Hits: 33
+virt: 0xf33b (pg:0xf3,off:0x3b)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x5d3b, val:  -50	  tlb_Hits: 33
+virt: 0x4602 (pg:0x46,off:0x 2)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x4902, val:   17	  tlb_Hits: 33
+
+virt: 0xf706 (pg:0xf7,off:0x 6)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x4206, val:   61	  tlb_Hits: 33
+virt: 0x0cec (pg:0x c,off:0xec)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x9dec, val:    0	  tlb_Hits: 33
+virt: 0x67b1 (pg:0x67,off:0xb1)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x5fb1, val:    0	  tlb_Hits: 33
+virt: 0xad6b (pg:0xad,off:0x6b)---> -----------, *IN_P_TBLE*, -----------,  phys: 0xaf6b, val:   90	  tlb_Hits: 33
+virt: 0x98d0 (pg:0x98,off:0xd0)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x0fd0, val:    0	  tlb_Hits: 33
+
+virt: 0x54ca (pg:0x54,off:0xca)---> -----------, *IN_P_TBLE*, -----------,  phys: 0xccca, val:   21	  tlb_Hits: 33
+virt: 0x1be8 (pg:0x1b,off:0xe8)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x67e8, val:    0	  tlb_Hits: 33
+virt: 0x7624 (pg:0x76,off:0x24)--->  *IN_TLB*  , ---------- , -----------,  phys: 0xe624, val:    0	  tlb_Hits: 34
+virt: 0x0e8d (pg:0x e,off:0x8d)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x278d, val:    0	  tlb_Hits: 34
+virt: 0xd568 (pg:0xd5,off:0x68)---> -----------, *IN_P_TBLE*, -----------,  phys: 0xbe68, val:    0	  tlb_Hits: 34
+
+virt: 0x776e (pg:0x77,off:0x6e)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x3f6e, val:   29	  tlb_Hits: 34
+virt: 0x2119 (pg:0x21,off:0x19)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x4e19, val:    0	  tlb_Hits: 34
+virt: 0x3062 (pg:0x30,off:0x62)---> -----------, *IN_P_TBLE*, -----------,  phys: 0xb062, val:   12	  tlb_Hits: 34
+virt: 0xa09a (pg:0xa0,off:0x9a)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x229a, val:   40	  tlb_Hits: 34
+virt: 0xe24a (pg:0xe2,off:0x4a)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x0c4a, val:   56	  tlb_Hits: 34
+
+virt: 0x3bed (pg:0x3b,off:0xed)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x7eed, val:    0	  tlb_Hits: 34
+virt: 0x3cee (pg:0x3c,off:0xee)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x7cee, val:   15	  tlb_Hits: 34
+virt: 0xea12 (pg:0xea,off:0x12)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x2912, val:   58	  tlb_Hits: 34
+virt: 0x4732 (pg:0x47,off:0x32)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x0932, val:   17	  tlb_Hits: 34
+virt: 0xbc22 (pg:0xbc,off:0x22)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x4522, val:   47	  tlb_Hits: 34
+
+virt: 0xa122 (pg:0xa1,off:0x22)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x6122, val:   40	  tlb_Hits: 34
+virt: 0x05e8 (pg:0x 5,off:0xe8)---> -----------, *IN_P_TBLE*, -----------,  phys: 0xc9e8, val:    0	  tlb_Hits: 34
+virt: 0x09f2 (pg:0x 9,off:0xf2)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x12f2, val:    2	  tlb_Hits: 34
+virt: 0xa2d2 (pg:0xa2,off:0xd2)---> -----------, *IN_P_TBLE*, -----------,  phys: 0xa3d2, val:   40	  tlb_Hits: 34
+virt: 0x0142 (pg:0x 1,off:0x42)---> -----------, *IN_P_TBLE*, -----------,  phys: 0xdf42, val:    0	  tlb_Hits: 34
+
+virt: 0x0370 (pg:0x 3,off:0x70)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x1f70, val:    0	  tlb_Hits: 34
+virt: 0x519b (pg:0x51,off:0x9b)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x989b, val:  102	  tlb_Hits: 34
+virt: 0xdd1c (pg:0xdd,off:0x1c)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x341c, val:    0	  tlb_Hits: 34
+virt: 0x9ce6 (pg:0x9c,off:0xe6)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x04e6, val:   39	  tlb_Hits: 34
+virt: 0x68a7 (pg:0x68,off:0xa7)---> -----------, *IN_P_TBLE*, -----------,  phys: 0xa6a7, val:   41	  tlb_Hits: 34
+
+virt: 0xae10 (pg:0xae,off:0x10)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x2b10, val:    0	  tlb_Hits: 34
+virt: 0x972a (pg:0x97,off:0x2a)---> -----------, *IN_P_TBLE*, -----------,  phys: 0xb72a, val:   37	  tlb_Hits: 34
+virt: 0xfa7f (pg:0xfa,off:0x7f)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x117f, val:  -97	  tlb_Hits: 34
+virt: 0x3ab4 (pg:0x3a,off:0xb4)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x60b4, val:    0	  tlb_Hits: 34
+virt: 0x970d (pg:0x97,off:0x d)--->  *IN_TLB*  , ---------- , -----------,  phys: 0xb70d, val:    0	  tlb_Hits: 35
+
+virt: 0xb245 (pg:0xb2,off:0x45)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x1e45, val:    0	  tlb_Hits: 35
+virt: 0xa88f (pg:0xa8,off:0x8f)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x448f, val:   35	  tlb_Hits: 35
+virt: 0x24f9 (pg:0x24,off:0xf9)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x59f9, val:    0	  tlb_Hits: 35
+virt: 0x09c2 (pg:0x 9,off:0xc2)--->  *IN_TLB*  , ---------- , -----------,  phys: 0x12c2, val:    2	  tlb_Hits: 36
+virt: 0x369a (pg:0x36,off:0x9a)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x7a9a, val:   13	  tlb_Hits: 36
+
+virt: 0x3fc6 (pg:0x3f,off:0xc6)---> -----------, *IN_P_TBLE*, -----------,  phys: 0xdac6, val:   15	  tlb_Hits: 36
+virt: 0xc8f2 (pg:0xc8,off:0xf2)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x7ff2, val:   50	  tlb_Hits: 36
+virt: 0x881d (pg:0x88,off:0x1d)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x681d, val:    0	  tlb_Hits: 36
+virt: 0xf8b3 (pg:0xf8,off:0xb3)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x6eb3, val:   44	  tlb_Hits: 36
+virt: 0x99ca (pg:0x99,off:0xca)---> -----------, *IN_P_TBLE*, -----------,  phys: 0xd9ca, val:   38	  tlb_Hits: 36
+
+virt: 0xd977 (pg:0xd9,off:0x77)---> -----------, ---------- , *IN_BACK_S*,  phys: 0xea77, val:   93	  tlb_Hits: 36
+virt: 0xfbf0 (pg:0xfb,off:0xf0)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x13f0, val:    0	  tlb_Hits: 36
+virt: 0x1e57 (pg:0x1e,off:0x57)---> -----------, *IN_P_TBLE*, -----------,  phys: 0xe257, val: -107	  tlb_Hits: 36
+virt: 0x188b (pg:0x18,off:0x8b)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x1d8b, val:   34	  tlb_Hits: 36
+virt: 0xda4c (pg:0xda,off:0x4c)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x874c, val:    0	  tlb_Hits: 36
+
+virt: 0xeeaf (pg:0xee,off:0xaf)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x17af, val:  -85	  tlb_Hits: 36
+virt: 0x27c8 (pg:0x27,off:0xc8)---> -----------, ---------- , *IN_BACK_S*,  phys: 0xebc8, val:    0	  tlb_Hits: 36
+virt: 0x9a77 (pg:0x9a,off:0x77)---> -----------, *IN_P_TBLE*, -----------,  phys: 0xa977, val:  -99	  tlb_Hits: 36
+virt: 0x2553 (pg:0x25,off:0x53)---> -----------, *IN_P_TBLE*, -----------,  phys: 0xe853, val:   84	  tlb_Hits: 36
+virt: 0x368b (pg:0x36,off:0x8b)--->  *IN_TLB*  , ---------- , -----------,  phys: 0x7a8b, val:  -94	  tlb_Hits: 37
+
+virt: 0xe65f (pg:0xe6,off:0x5f)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x3a5f, val: -105	  tlb_Hits: 37
+virt: 0x4c51 (pg:0x4c,off:0x51)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x5851, val:    0	  tlb_Hits: 37
+virt: 0x17d5 (pg:0x17,off:0xd5)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x24d5, val:    0	  tlb_Hits: 37
+virt: 0xa1cd (pg:0xa1,off:0xcd)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x61cd, val:    0	  tlb_Hits: 37
+virt: 0xb1be (pg:0xb1,off:0xbe)---> -----------, *IN_P_TBLE*, -----------,  phys: 0xb3be, val:   44	  tlb_Hits: 37
+
+virt: 0x7290 (pg:0x72,off:0x90)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x9090, val:    0	  tlb_Hits: 37
+virt: 0x1fd5 (pg:0x1f,off:0xd5)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x84d5, val:    0	  tlb_Hits: 37
+virt: 0x636a (pg:0x63,off:0x6a)---> -----------, ---------- , *IN_BACK_S*,  phys: 0xec6a, val:   24	  tlb_Hits: 37
+virt: 0xe640 (pg:0xe6,off:0x40)--->  *IN_TLB*  , ---------- , -----------,  phys: 0x3a40, val:    0	  tlb_Hits: 38
+virt: 0xc5ea (pg:0xc5,off:0xea)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x48ea, val:   49	  tlb_Hits: 38
+
+virt: 0x5a2c (pg:0x5a,off:0x2c)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x8c2c, val:    0	  tlb_Hits: 38
+virt: 0x8e74 (pg:0x8e,off:0x74)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x3874, val:    0	  tlb_Hits: 38
+virt: 0x836d (pg:0x83,off:0x6d)---> -----------, ---------- , *IN_BACK_S*,  phys: 0xed6d, val:    0	  tlb_Hits: 38
+virt: 0x61aa (pg:0x61,off:0xaa)---> -----------, *IN_P_TBLE*, -----------,  phys: 0xcdaa, val:   24	  tlb_Hits: 38
+virt: 0xd1d3 (pg:0xd1,off:0xd3)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x03d3, val:  116	  tlb_Hits: 38
+
+virt: 0xeb0d (pg:0xeb,off:0x d)---> -----------, *IN_P_TBLE*, -----------,  phys: 0xe10d, val:    0	  tlb_Hits: 38
+virt: 0xb512 (pg:0xb5,off:0x12)---> -----------, *IN_P_TBLE*, -----------,  phys: 0xc412, val:   45	  tlb_Hits: 38
+virt: 0x1264 (pg:0x12,off:0x64)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x6c64, val:    0	  tlb_Hits: 38
+virt: 0x6e30 (pg:0x6e,off:0x30)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x8830, val:    0	  tlb_Hits: 38
+virt: 0xe5dc (pg:0xe5,off:0xdc)---> -----------, *IN_P_TBLE*, -----------,  phys: 0xd7dc, val:    0	  tlb_Hits: 38
+
+virt: 0x569d (pg:0x56,off:0x9d)---> -----------, *IN_P_TBLE*, -----------,  phys: 0xdd9d, val:    0	  tlb_Hits: 38
+virt: 0x2157 (pg:0x21,off:0x57)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x4e57, val:   85	  tlb_Hits: 38
+virt: 0xa515 (pg:0xa5,off:0x15)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x2a15, val:    0	  tlb_Hits: 38
+virt: 0x73f7 (pg:0x73,off:0xf7)---> -----------, *IN_P_TBLE*, -----------,  phys: 0xc1f7, val:   -3	  tlb_Hits: 38
+virt: 0x93a7 (pg:0x93,off:0xa7)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x72a7, val:  -23	  tlb_Hits: 38
+
+virt: 0x5826 (pg:0x58,off:0x26)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x0b26, val:   22	  tlb_Hits: 38
+virt: 0xf438 (pg:0xf4,off:0x38)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x0138, val:    0	  tlb_Hits: 38
+virt: 0x1002 (pg:0x10,off:0x 2)---> -----------, *IN_P_TBLE*, -----------,  phys: 0xc602, val:    4	  tlb_Hits: 38
+virt: 0xbb7f (pg:0xbb,off:0x7f)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x647f, val:  -33	  tlb_Hits: 38
+virt: 0xc1fc (pg:0xc1,off:0xfc)---> -----------, *IN_P_TBLE*, -----------,  phys: 0xb1fc, val:    0	  tlb_Hits: 38
+
+virt: 0x90c7 (pg:0x90,off:0xc7)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x47c7, val:   49	  tlb_Hits: 38
+virt: 0xa380 (pg:0xa3,off:0x80)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x9780, val:    0	  tlb_Hits: 38
+virt: 0x1529 (pg:0x15,off:0x29)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x5429, val:    0	  tlb_Hits: 38
+virt: 0xbed8 (pg:0xbe,off:0xd8)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x80d8, val:    0	  tlb_Hits: 38
+virt: 0x29ba (pg:0x29,off:0xba)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x6bba, val:   10	  tlb_Hits: 38
+
+virt: 0x5762 (pg:0x57,off:0x62)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x2c62, val:   21	  tlb_Hits: 38
+virt: 0xf731 (pg:0xf7,off:0x31)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x4231, val:    0	  tlb_Hits: 38
+virt: 0xf3f4 (pg:0xf3,off:0xf4)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x5df4, val:    0	  tlb_Hits: 38
+virt: 0xc564 (pg:0xc5,off:0x64)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x4864, val:    0	  tlb_Hits: 38
+virt: 0x233e (pg:0x23,off:0x3e)---> -----------, *IN_P_TBLE*, -----------,  phys: 0xbc3e, val:    8	  tlb_Hits: 38
+
+virt: 0xe7a4 (pg:0xe7,off:0xa4)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x28a4, val:    0	  tlb_Hits: 38
+virt: 0xe524 (pg:0xe5,off:0x24)---> -----------, *IN_P_TBLE*, -----------,  phys: 0xd724, val:    0	  tlb_Hits: 38
+virt: 0xdc51 (pg:0xdc,off:0x51)---> -----------, *IN_P_TBLE*, -----------,  phys: 0xc851, val:    0	  tlb_Hits: 38
+virt: 0x2146 (pg:0x21,off:0x46)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x4e46, val:    8	  tlb_Hits: 38
+virt: 0xf65a (pg:0xf6,off:0x5a)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x565a, val:   61	  tlb_Hits: 38
+
+virt: 0xf712 (pg:0xf7,off:0x12)--->  *IN_TLB*  , ---------- , -----------,  phys: 0x4212, val:   61	  tlb_Hits: 39
+virt: 0xbdd0 (pg:0xbd,off:0xd0)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x07d0, val:    0	  tlb_Hits: 39
+virt: 0x7063 (pg:0x70,off:0x63)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x0563, val:   24	  tlb_Hits: 39
+virt: 0x9329 (pg:0x93,off:0x29)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x7229, val:    0	  tlb_Hits: 39
+virt: 0xed68 (pg:0xed,off:0x68)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x5c68, val:    0	  tlb_Hits: 39
+
+virt: 0xdc76 (pg:0xdc,off:0x76)--->  *IN_TLB*  , ---------- , -----------,  phys: 0xc876, val:   55	  tlb_Hits: 40
+virt: 0xec08 (pg:0xec,off:0x 8)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x1c08, val:    0	  tlb_Hits: 40
+virt: 0x9c39 (pg:0x9c,off:0x39)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x0439, val:    0	  tlb_Hits: 40
+virt: 0xdac4 (pg:0xda,off:0xc4)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x87c4, val:    0	  tlb_Hits: 40
+virt: 0xe67a (pg:0xe6,off:0x7a)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x3a7a, val:   57	  tlb_Hits: 40
+
+virt: 0x84be (pg:0x84,off:0xbe)---> -----------, *IN_P_TBLE*, -----------,  phys: 0xa4be, val:   33	  tlb_Hits: 40
+virt: 0x639a (pg:0x63,off:0x9a)---> -----------, *IN_P_TBLE*, -----------,  phys: 0xec9a, val:   24	  tlb_Hits: 40
+virt: 0xded7 (pg:0xde,off:0xd7)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x92d7, val:  -75	  tlb_Hits: 40
+virt: 0x0579 (pg:0x 5,off:0x79)---> -----------, *IN_P_TBLE*, -----------,  phys: 0xc979, val:    0	  tlb_Hits: 40
+virt: 0x3b1a (pg:0x3b,off:0x1a)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x7e1a, val:   14	  tlb_Hits: 40
+
+virt: 0xa7d0 (pg:0xa7,off:0xd0)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x4cd0, val:    0	  tlb_Hits: 40
+virt: 0xf183 (pg:0xf1,off:0x83)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x5783, val:   96	  tlb_Hits: 40
+virt: 0x7eba (pg:0x7e,off:0xba)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x1bba, val:   31	  tlb_Hits: 40
+virt: 0xfb30 (pg:0xfb,off:0x30)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x1330, val:    0	  tlb_Hits: 40
+virt: 0x7641 (pg:0x76,off:0x41)---> -----------, *IN_P_TBLE*, -----------,  phys: 0xe641, val:    0	  tlb_Hits: 40
+
+virt: 0x94c2 (pg:0x94,off:0xc2)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x91c2, val:   37	  tlb_Hits: 40
+virt: 0x5784 (pg:0x57,off:0x84)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x2c84, val:    0	  tlb_Hits: 40
+virt: 0x0ee0 (pg:0x e,off:0xe0)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x27e0, val:    0	  tlb_Hits: 40
+virt: 0x41f3 (pg:0x41,off:0xf3)---> -----------, *IN_P_TBLE*, -----------,  phys: 0xbbf3, val:  124	  tlb_Hits: 40
+virt: 0x5a47 (pg:0x5a,off:0x47)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x8c47, val: -111	  tlb_Hits: 40
+
+virt: 0xf3d1 (pg:0xf3,off:0xd1)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x5dd1, val:    0	  tlb_Hits: 40
+virt: 0xebcc (pg:0xeb,off:0xcc)---> -----------, *IN_P_TBLE*, -----------,  phys: 0xe1cc, val:    0	  tlb_Hits: 40
+virt: 0x11be (pg:0x11,off:0xbe)---> -----------, *IN_P_TBLE*, -----------,  phys: 0xe5be, val:    4	  tlb_Hits: 40
+virt: 0x39ed (pg:0x39,off:0xed)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x82ed, val:    0	  tlb_Hits: 40
+virt: 0xafa4 (pg:0xaf,off:0xa4)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x33a4, val:    0	  tlb_Hits: 40
+
+virt: 0x8484 (pg:0x84,off:0x84)---> -----------, *IN_P_TBLE*, -----------,  phys: 0xa484, val:    0	  tlb_Hits: 40
+virt: 0x085d (pg:0x 8,off:0x5d)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x895d, val:    0	  tlb_Hits: 40
+virt: 0x4b2d (pg:0x4b,off:0x2d)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x372d, val:    0	  tlb_Hits: 40
+virt: 0xb840 (pg:0xb8,off:0x40)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x7440, val:    0	  tlb_Hits: 40
+virt: 0x5df0 (pg:0x5d,off:0xf0)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x9af0, val:    0	  tlb_Hits: 40
+
+virt: 0x03fe (pg:0x 3,off:0xfe)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x1ffe, val:    0	  tlb_Hits: 40
+virt: 0x5a23 (pg:0x5a,off:0x23)--->  *IN_TLB*  , ---------- , -----------,  phys: 0x8c23, val: -120	  tlb_Hits: 41
+virt: 0x6138 (pg:0x61,off:0x38)---> -----------, *IN_P_TBLE*, -----------,  phys: 0xcd38, val:    0	  tlb_Hits: 41
+virt: 0xc05f (pg:0xc0,off:0x5f)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x215f, val:   23	  tlb_Hits: 41
+virt: 0x1324 (pg:0x13,off:0x24)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x3524, val:    0	  tlb_Hits: 41
+
+virt: 0x5880 (pg:0x58,off:0x80)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x0b80, val:    0	  tlb_Hits: 41
+virt: 0x8545 (pg:0x85,off:0x45)---> -----------, ---------- , *IN_BACK_S*,  phys: 0xee45, val:    0	  tlb_Hits: 41
+virt: 0xd903 (pg:0xd9,off:0x 3)---> -----------, *IN_P_TBLE*, -----------,  phys: 0xea03, val:   64	  tlb_Hits: 41
+virt: 0xbf33 (pg:0xbf,off:0x33)---> -----------, *IN_P_TBLE*, -----------,  phys: 0xc533, val:  -52	  tlb_Hits: 41
+virt: 0xe88d (pg:0xe8,off:0x8d)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x658d, val:    0	  tlb_Hits: 41
+
+virt: 0x5340 (pg:0x53,off:0x40)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x2340, val:    0	  tlb_Hits: 41
+virt: 0x53a7 (pg:0x53,off:0xa7)--->  *IN_TLB*  , ---------- , -----------,  phys: 0x23a7, val:  -23	  tlb_Hits: 42
+virt: 0x032d (pg:0x 3,off:0x2d)--->  *IN_TLB*  , ---------- , -----------,  phys: 0x1f2d, val:    0	  tlb_Hits: 43
+virt: 0x4bdb (pg:0x4b,off:0xdb)--->  *IN_TLB*  , ---------- , -----------,  phys: 0x37db, val:  -10	  tlb_Hits: 44
+virt: 0x07cf (pg:0x 7,off:0xcf)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x81cf, val:  -13	  tlb_Hits: 44
+
+virt: 0x4ebb (pg:0x4e,off:0xbb)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x9ebb, val:  -82	  tlb_Hits: 44
+virt: 0x5411 (pg:0x54,off:0x11)---> -----------, *IN_P_TBLE*, -----------,  phys: 0xcc11, val:    0	  tlb_Hits: 44
+virt: 0x3566 (pg:0x35,off:0x66)---> -----------, *IN_P_TBLE*, -----------,  phys: 0xcf66, val:   13	  tlb_Hits: 44
+virt: 0x4b59 (pg:0x4b,off:0x59)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x3759, val:    0	  tlb_Hits: 44
+virt: 0xe473 (pg:0xe4,off:0x73)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x3c73, val:   28	  tlb_Hits: 44
+
+virt: 0xa166 (pg:0xa1,off:0x66)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x6166, val:   40	  tlb_Hits: 44
+virt: 0x3f17 (pg:0x3f,off:0x17)---> -----------, *IN_P_TBLE*, -----------,  phys: 0xda17, val:  -59	  tlb_Hits: 44
+virt: 0x352b (pg:0x35,off:0x2b)--->  *IN_TLB*  , ---------- , -----------,  phys: 0xcf2b, val:   74	  tlb_Hits: 45
+virt: 0x540a (pg:0x54,off:0x a)--->  *IN_TLB*  , ---------- , -----------,  phys: 0xcc0a, val:   21	  tlb_Hits: 46
+virt: 0x34bb (pg:0x34,off:0xbb)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x8dbb, val:   46	  tlb_Hits: 46
+
+virt: 0xb20f (pg:0xb2,off:0x f)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x1e0f, val: -125	  tlb_Hits: 46
+virt: 0xbf75 (pg:0xbf,off:0x75)--->  *IN_TLB*  , ---------- , -----------,  phys: 0xc575, val:    0	  tlb_Hits: 47
+virt: 0xfd4b (pg:0xfd,off:0x4b)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x084b, val:   82	  tlb_Hits: 47
+virt: 0xf7fd (pg:0xf7,off:0xfd)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x42fd, val:    0	  tlb_Hits: 47
+virt: 0x9729 (pg:0x97,off:0x29)---> -----------, *IN_P_TBLE*, -----------,  phys: 0xb729, val:    0	  tlb_Hits: 47
+
+virt: 0xe734 (pg:0xe7,off:0x34)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x2834, val:    0	  tlb_Hits: 47
+virt: 0x6011 (pg:0x60,off:0x11)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x9611, val:    0	  tlb_Hits: 47
+virt: 0xe129 (pg:0xe1,off:0x29)---> -----------, ---------- , *IN_BACK_S*,  phys: 0xef29, val:    0	  tlb_Hits: 47
+virt: 0x8eac (pg:0x8e,off:0xac)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x38ac, val:    0	  tlb_Hits: 47
+virt: 0xde94 (pg:0xde,off:0x94)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x9294, val:    0	  tlb_Hits: 47
+
+virt: 0x8fca (pg:0x8f,off:0xca)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x8bca, val:   35	  tlb_Hits: 47
+virt: 0x17d0 (pg:0x17,off:0xd0)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x24d0, val:    0	  tlb_Hits: 47
+virt: 0x2b3e (pg:0x2b,off:0x3e)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x9c3e, val:   10	  tlb_Hits: 47
+virt: 0xeadc (pg:0xea,off:0xdc)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x29dc, val:    0	  tlb_Hits: 47
+virt: 0x92c8 (pg:0x92,off:0xc8)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x53c8, val:    0	  tlb_Hits: 47
+
+virt: 0x3af8 (pg:0x3a,off:0xf8)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x60f8, val:    0	  tlb_Hits: 47
+virt: 0xb0bf (pg:0xb0,off:0xbf)---> -----------, *IN_P_TBLE*, -----------,  phys: 0xbfbf, val:   47	  tlb_Hits: 47
+virt: 0x800f (pg:0x80,off:0x f)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x100f, val:    3	  tlb_Hits: 47
+virt: 0xe416 (pg:0xe4,off:0x16)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x3c16, val:   57	  tlb_Hits: 47
+virt: 0xedc9 (pg:0xed,off:0xc9)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x5cc9, val:    0	  tlb_Hits: 47
+
+virt: 0x5ca7 (pg:0x5c,off:0xa7)---> -----------, *IN_P_TBLE*, -----------,  phys: 0xd6a7, val:   41	  tlb_Hits: 47
+virt: 0x5f41 (pg:0x5f,off:0x41)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x0641, val:    0	  tlb_Hits: 47
+virt: 0x5723 (pg:0x57,off:0x23)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x2c23, val:  -56	  tlb_Hits: 47
+virt: 0x43df (pg:0x43,off:0xdf)---> -----------, ---------- , *IN_BACK_S*,  phys: 0xf0df, val:   -9	  tlb_Hits: 47
+virt: 0x3e76 (pg:0x3e,off:0x76)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x5276, val:   15	  tlb_Hits: 47
+
+virt: 0x502e (pg:0x50,off:0x2e)---> -----------, *IN_P_TBLE*, -----------,  phys: 0xde2e, val:   20	  tlb_Hits: 47
+virt: 0x6530 (pg:0x65,off:0x30)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x8f30, val:    0	  tlb_Hits: 47
+virt: 0xa4f0 (pg:0xa4,off:0xf0)---> -----------, *IN_P_TBLE*, -----------,  phys: 0xb4f0, val:    0	  tlb_Hits: 47
+virt: 0x245f (pg:0x24,off:0x5f)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x595f, val:   23	  tlb_Hits: 47
+virt: 0x1eb6 (pg:0x1e,off:0xb6)---> -----------, *IN_P_TBLE*, -----------,  phys: 0xe2b6, val:    7	  tlb_Hits: 47
+
+virt: 0x0efb (pg:0x e,off:0xfb)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x27fb, val:  -66	  tlb_Hits: 47
+virt: 0x7747 (pg:0x77,off:0x47)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x3f47, val:  -47	  tlb_Hits: 47
+virt: 0xfe9b (pg:0xfe,off:0x9b)---> -----------, *IN_P_TBLE*, -----------,  phys: 0xbd9b, val:  -90	  tlb_Hits: 47
+virt: 0xe02b (pg:0xe0,off:0x2b)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x942b, val:   10	  tlb_Hits: 47
+virt: 0xf85b (pg:0xf8,off:0x5b)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x6e5b, val:   22	  tlb_Hits: 47
+
+virt: 0x1352 (pg:0x13,off:0x52)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x3552, val:    4	  tlb_Hits: 47
+virt: 0x234d (pg:0x23,off:0x4d)---> -----------, *IN_P_TBLE*, -----------,  phys: 0xbc4d, val:    0	  tlb_Hits: 47
+virt: 0xee69 (pg:0xee,off:0x69)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x1769, val:    0	  tlb_Hits: 47
+virt: 0xd8f7 (pg:0xd8,off:0xf7)---> -----------, *IN_P_TBLE*, -----------,  phys: 0xe3f7, val:   61	  tlb_Hits: 47
+virt: 0xc4b9 (pg:0xc4,off:0xb9)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x36b9, val:    0	  tlb_Hits: 47
+
+virt: 0x1950 (pg:0x19,off:0x50)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x7150, val:    0	  tlb_Hits: 47
+virt: 0x36da (pg:0x36,off:0xda)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x7ada, val:   13	  tlb_Hits: 47
+virt: 0x541b (pg:0x54,off:0x1b)---> -----------, *IN_P_TBLE*, -----------,  phys: 0xcc1b, val:    6	  tlb_Hits: 47
+virt: 0x991b (pg:0x99,off:0x1b)---> -----------, *IN_P_TBLE*, -----------,  phys: 0xd91b, val:   70	  tlb_Hits: 47
+virt: 0x9287 (pg:0x92,off:0x87)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x5387, val:  -95	  tlb_Hits: 47
+
+virt: 0x5c90 (pg:0x5c,off:0x90)---> -----------, *IN_P_TBLE*, -----------,  phys: 0xd690, val:    0	  tlb_Hits: 47
+virt: 0x6b30 (pg:0x6b,off:0x30)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x3d30, val:    0	  tlb_Hits: 47
+virt: 0x6e29 (pg:0x6e,off:0x29)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x8829, val:    0	  tlb_Hits: 47
+virt: 0x5a20 (pg:0x5a,off:0x20)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x8c20, val:    0	  tlb_Hits: 47
+virt: 0x1e86 (pg:0x1e,off:0x86)---> -----------, *IN_P_TBLE*, -----------,  phys: 0xe286, val:    7	  tlb_Hits: 47
+
+virt: 0x1998 (pg:0x19,off:0x98)--->  *IN_TLB*  , ---------- , -----------,  phys: 0x7198, val:    0	  tlb_Hits: 48
+virt: 0xaa75 (pg:0xaa,off:0x75)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x3175, val:    0	  tlb_Hits: 48
+virt: 0x8929 (pg:0x89,off:0x29)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x9b29, val:    0	  tlb_Hits: 48
+virt: 0x884a (pg:0x88,off:0x4a)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x684a, val:   34	  tlb_Hits: 48
+virt: 0xef71 (pg:0xef,off:0x71)---> -----------, *IN_P_TBLE*, -----------,  phys: 0xa571, val:    0	  tlb_Hits: 48
+
+virt: 0xb241 (pg:0xb2,off:0x41)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x1e41, val:    0	  tlb_Hits: 48
+virt: 0xeff7 (pg:0xef,off:0xf7)--->  *IN_TLB*  , ---------- , -----------,  phys: 0xa5f7, val:   -3	  tlb_Hits: 49
+virt: 0xb3d0 (pg:0xb3,off:0xd0)---> -----------, *IN_P_TBLE*, -----------,  phys: 0xc7d0, val:    0	  tlb_Hits: 49
+virt: 0x4956 (pg:0x49,off:0x56)---> -----------, ---------- , *IN_BACK_S*,  phys: 0xf156, val:   18	  tlb_Hits: 49
+virt: 0xf60f (pg:0xf6,off:0x f)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x560f, val: -125	  tlb_Hits: 49
+
+virt: 0x6d9b (pg:0x6d,off:0x9b)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x0d9b, val:  102	  tlb_Hits: 49
+virt: 0x899d (pg:0x89,off:0x9d)--->  *IN_TLB*  , ---------- , -----------,  phys: 0x9b9d, val:    0	  tlb_Hits: 50
+virt: 0xc81e (pg:0xc8,off:0x1e)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x7f1e, val:   50	  tlb_Hits: 50
+virt: 0x3845 (pg:0x38,off:0x45)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x1645, val:    0	  tlb_Hits: 50
+virt: 0xcc12 (pg:0xcc,off:0x12)---> -----------, *IN_P_TBLE*, -----------,  phys: 0xb612, val:   51	  tlb_Hits: 50
+
+virt: 0xa891 (pg:0xa8,off:0x91)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x4491, val:    0	  tlb_Hits: 50
+virt: 0x0a95 (pg:0x a,off:0x95)---> -----------, *IN_P_TBLE*, -----------,  phys: 0xd295, val:    0	  tlb_Hits: 50
+virt: 0xbb5b (pg:0xbb,off:0x5b)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x645b, val:  -42	  tlb_Hits: 50
+virt: 0x904f (pg:0x90,off:0x4f)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x474f, val:   19	  tlb_Hits: 50
+virt: 0xd332 (pg:0xd3,off:0x32)---> -----------, *IN_P_TBLE*, -----------,  phys: 0xca32, val:   52	  tlb_Hits: 50
+
+virt: 0x2746 (pg:0x27,off:0x46)---> -----------, *IN_P_TBLE*, -----------,  phys: 0xeb46, val:    9	  tlb_Hits: 50
+virt: 0xa82b (pg:0xa8,off:0x2b)--->  *IN_TLB*  , ---------- , -----------,  phys: 0x442b, val:   10	  tlb_Hits: 51
+virt: 0x2d05 (pg:0x2d,off:0x 5)---> -----------, *IN_P_TBLE*, -----------,  phys: 0xa205, val:    0	  tlb_Hits: 51
+virt: 0x4514 (pg:0x45,off:0x14)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x2614, val:    0	  tlb_Hits: 51
+virt: 0xa2d1 (pg:0xa2,off:0xd1)---> -----------, *IN_P_TBLE*, -----------,  phys: 0xa3d1, val:    0	  tlb_Hits: 51
+
+virt: 0x6ceb (pg:0x6c,off:0xeb)---> -----------, *IN_P_TBLE*, -----------,  phys: 0xaceb, val:   58	  tlb_Hits: 51
+virt: 0xde4d (pg:0xde,off:0x4d)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x924d, val:    0	  tlb_Hits: 51
+virt: 0xb2cc (pg:0xb2,off:0xcc)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x1ecc, val:    0	  tlb_Hits: 51
+virt: 0x6b68 (pg:0x6b,off:0x68)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x3d68, val:    0	  tlb_Hits: 51
+virt: 0xb6fa (pg:0xb6,off:0xfa)---> -----------, *IN_P_TBLE*, -----------,  phys: 0xd8fa, val:   45	  tlb_Hits: 51
+
+virt: 0x974e (pg:0x97,off:0x4e)---> -----------, *IN_P_TBLE*, -----------,  phys: 0xb74e, val:   37	  tlb_Hits: 51
+virt: 0x712c (pg:0x71,off:0x2c)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x402c, val:    0	  tlb_Hits: 51
+virt: 0xe924 (pg:0xe9,off:0x24)---> -----------, *IN_P_TBLE*, -----------,  phys: 0xb924, val:    0	  tlb_Hits: 51
+virt: 0x2c78 (pg:0x2c,off:0x78)---> -----------, *IN_P_TBLE*, -----------,  phys: 0xd478, val:    0	  tlb_Hits: 51
+virt: 0x521a (pg:0x52,off:0x1a)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x931a, val:   20	  tlb_Hits: 51
+
+virt: 0x0890 (pg:0x 8,off:0x90)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x8990, val:    0	  tlb_Hits: 51
+virt: 0x47d0 (pg:0x47,off:0xd0)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x09d0, val:    0	  tlb_Hits: 51
+virt: 0x3498 (pg:0x34,off:0x98)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x8d98, val:    0	  tlb_Hits: 51
+virt: 0x792a (pg:0x79,off:0x2a)---> -----------, ---------- , *IN_BACK_S*,  phys: 0xf22a, val:   30	  tlb_Hits: 51
+virt: 0xf5ee (pg:0xf5,off:0xee)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x6fee, val:   61	  tlb_Hits: 51
+
+virt: 0x7793 (pg:0x77,off:0x93)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x3f93, val:  -28	  tlb_Hits: 51
+virt: 0x0779 (pg:0x 7,off:0x79)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x8179, val:    0	  tlb_Hits: 51
+virt: 0x49d8 (pg:0x49,off:0xd8)---> -----------, *IN_P_TBLE*, -----------,  phys: 0xf1d8, val:    0	  tlb_Hits: 51
+virt: 0x6895 (pg:0x68,off:0x95)---> -----------, *IN_P_TBLE*, -----------,  phys: 0xa695, val:    0	  tlb_Hits: 51
+virt: 0xd8c3 (pg:0xd8,off:0xc3)---> -----------, *IN_P_TBLE*, -----------,  phys: 0xe3c3, val:   48	  tlb_Hits: 51
+
+virt: 0x558b (pg:0x55,off:0x8b)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x5e8b, val:   98	  tlb_Hits: 51
+virt: 0xfb9d (pg:0xfb,off:0x9d)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x139d, val:    0	  tlb_Hits: 51
+virt: 0xb81e (pg:0xb8,off:0x1e)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x741e, val:   46	  tlb_Hits: 51
+virt: 0x5a84 (pg:0x5a,off:0x84)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x8c84, val:    0	  tlb_Hits: 51
+virt: 0x1c5e (pg:0x1c,off:0x5e)---> -----------, *IN_P_TBLE*, -----------,  phys: 0xa85e, val:    7	  tlb_Hits: 51
+
+virt: 0x31a1 (pg:0x31,off:0xa1)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x79a1, val:    0	  tlb_Hits: 51
+virt: 0x1d62 (pg:0x1d,off:0x62)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x1862, val:    7	  tlb_Hits: 51
+virt: 0xe5bf (pg:0xe5,off:0xbf)---> -----------, *IN_P_TBLE*, -----------,  phys: 0xd7bf, val:  111	  tlb_Hits: 51
+virt: 0x8864 (pg:0x88,off:0x64)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x6864, val:    0	  tlb_Hits: 51
+virt: 0x0eda (pg:0x e,off:0xda)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x27da, val:    3	  tlb_Hits: 51
+
+virt: 0xe298 (pg:0xe2,off:0x98)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x0c98, val:    0	  tlb_Hits: 51
+virt: 0x04d7 (pg:0x 4,off:0xd7)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x9fd7, val:   53	  tlb_Hits: 51
+virt: 0xf9cb (pg:0xf9,off:0xcb)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x55cb, val:  114	  tlb_Hits: 51
+virt: 0x017d (pg:0x 1,off:0x7d)---> -----------, *IN_P_TBLE*, -----------,  phys: 0xdf7d, val:    0	  tlb_Hits: 51
+virt: 0xed3e (pg:0xed,off:0x3e)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x5c3e, val:   59	  tlb_Hits: 51
+
+virt: 0xbe81 (pg:0xbe,off:0x81)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x8081, val:    0	  tlb_Hits: 51
+virt: 0xa3d2 (pg:0xa3,off:0xd2)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x97d2, val:   40	  tlb_Hits: 51
+virt: 0x9489 (pg:0x94,off:0x89)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x9189, val:    0	  tlb_Hits: 51
+virt: 0xd73b (pg:0xd7,off:0x3b)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x143b, val:  -50	  tlb_Hits: 51
+virt: 0xdd73 (pg:0xdd,off:0x73)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x3473, val:   92	  tlb_Hits: 51
+
+virt: 0x9a6a (pg:0x9a,off:0x6a)---> -----------, *IN_P_TBLE*, -----------,  phys: 0xa96a, val:   38	  tlb_Hits: 51
+virt: 0xe67b (pg:0xe6,off:0x7b)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x3a7b, val:  -98	  tlb_Hits: 51
+virt: 0x178d (pg:0x17,off:0x8d)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x248d, val:    0	  tlb_Hits: 51
+virt: 0x51b8 (pg:0x51,off:0xb8)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x98b8, val:    0	  tlb_Hits: 51
+virt: 0x1f8d (pg:0x1f,off:0x8d)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x848d, val:    0	  tlb_Hits: 51
+
+virt: 0xa689 (pg:0xa6,off:0x89)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x5189, val:    0	  tlb_Hits: 51
+virt: 0x4423 (pg:0x44,off:0x23)---> -----------, *IN_P_TBLE*, -----------,  phys: 0xa023, val:    8	  tlb_Hits: 51
+virt: 0xd142 (pg:0xd1,off:0x42)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x0342, val:   52	  tlb_Hits: 51
+virt: 0x5931 (pg:0x59,off:0x31)---> -----------, *IN_P_TBLE*, -----------,  phys: 0xce31, val:    0	  tlb_Hits: 51
+virt: 0x0ec6 (pg:0x e,off:0xc6)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x27c6, val:    3	  tlb_Hits: 51
+
+virt: 0xba8e (pg:0xba,off:0x8e)---> -----------, *IN_P_TBLE*, -----------,  phys: 0xdc8e, val:   46	  tlb_Hits: 51
+virt: 0x5678 (pg:0x56,off:0x78)---> -----------, *IN_P_TBLE*, -----------,  phys: 0xdd78, val:    0	  tlb_Hits: 51
+virt: 0x579b (pg:0x57,off:0x9b)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x2c9b, val:  -26	  tlb_Hits: 51
+virt: 0x5d3b (pg:0x5d,off:0x3b)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x9a3b, val:   78	  tlb_Hits: 51
+virt: 0xea40 (pg:0xea,off:0x40)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x2940, val:    0	  tlb_Hits: 51
+
+virt: 0xf2d6 (pg:0xf2,off:0xd6)---> -----------, ---------- , *IN_BACK_S*,  phys: 0xf3d6, val:   60	  tlb_Hits: 51
+virt: 0x1b3c (pg:0x1b,off:0x3c)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x673c, val:    0	  tlb_Hits: 51
+virt: 0xf8c4 (pg:0xf8,off:0xc4)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x6ec4, val:    0	  tlb_Hits: 51
+virt: 0xb534 (pg:0xb5,off:0x34)---> -----------, *IN_P_TBLE*, -----------,  phys: 0xc434, val:    0	  tlb_Hits: 51
+virt: 0xa3d6 (pg:0xa3,off:0xd6)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x97d6, val:   40	  tlb_Hits: 51
+
+virt: 0x8eac (pg:0x8e,off:0xac)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x38ac, val:    0	  tlb_Hits: 51
+virt: 0x246b (pg:0x24,off:0x6b)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x596b, val:   26	  tlb_Hits: 51
+virt: 0x798a (pg:0x79,off:0x8a)---> -----------, *IN_P_TBLE*, -----------,  phys: 0xf28a, val:   30	  tlb_Hits: 51
+virt: 0x5749 (pg:0x57,off:0x49)--->  *IN_TLB*  , ---------- , -----------,  phys: 0x2c49, val:    0	  tlb_Hits: 52
+virt: 0xb57f (pg:0xb5,off:0x7f)--->  *IN_TLB*  , ---------- , -----------,  phys: 0xc47f, val:   95	  tlb_Hits: 53
+
+virt: 0xd58f (pg:0xd5,off:0x8f)---> -----------, *IN_P_TBLE*, -----------,  phys: 0xbe8f, val:   99	  tlb_Hits: 53
+virt: 0x23fe (pg:0x23,off:0xfe)---> -----------, *IN_P_TBLE*, -----------,  phys: 0xbcfe, val:    8	  tlb_Hits: 53
+virt: 0x1c59 (pg:0x1c,off:0x59)---> -----------, *IN_P_TBLE*, -----------,  phys: 0xa859, val:    0	  tlb_Hits: 53
+virt: 0x817e (pg:0x81,off:0x7e)---> -----------, *IN_P_TBLE*, -----------,  phys: 0xd17e, val:   32	  tlb_Hits: 53
+virt: 0xa25d (pg:0xa2,off:0x5d)---> -----------, *IN_P_TBLE*, -----------,  phys: 0xa35d, val:    0	  tlb_Hits: 53
+
+virt: 0x6666 (pg:0x66,off:0x66)---> -----------, *IN_P_TBLE*, -----------,  phys: 0xc066, val:   25	  tlb_Hits: 53
+virt: 0x0e0b (pg:0x e,off:0x b)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x270b, val: -126	  tlb_Hits: 53
+virt: 0x460c (pg:0x46,off:0x c)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x490c, val:    0	  tlb_Hits: 53
+virt: 0x8764 (pg:0x87,off:0x64)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x4664, val:    0	  tlb_Hits: 53
+virt: 0xcaf9 (pg:0xca,off:0xf9)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x6af9, val:    0	  tlb_Hits: 53
+
+virt: 0xe50a (pg:0xe5,off:0x a)---> -----------, *IN_P_TBLE*, -----------,  phys: 0xd70a, val:   57	  tlb_Hits: 53
+virt: 0xe286 (pg:0xe2,off:0x86)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x0c86, val:   56	  tlb_Hits: 53
+virt: 0x70b0 (pg:0x70,off:0xb0)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x05b0, val:    0	  tlb_Hits: 53
+virt: 0xc300 (pg:0xc3,off:0x 0)---> -----------, *IN_P_TBLE*, -----------,  phys: 0xe700, val:    0	  tlb_Hits: 53
+virt: 0x47af (pg:0x47,off:0xaf)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x09af, val:  -21	  tlb_Hits: 53
+
+virt: 0xd1a5 (pg:0xd1,off:0xa5)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x03a5, val:    0	  tlb_Hits: 53
+virt: 0x84cc (pg:0x84,off:0xcc)---> -----------, *IN_P_TBLE*, -----------,  phys: 0xa4cc, val:    0	  tlb_Hits: 53
+virt: 0x1a55 (pg:0x1a,off:0x55)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x1a55, val:    0	  tlb_Hits: 53
+virt: 0xfa62 (pg:0xfa,off:0x62)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x1162, val:   62	  tlb_Hits: 53
+virt: 0x025e (pg:0x 2,off:0x5e)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x435e, val:    0	  tlb_Hits: 53
+
+virt: 0x6af7 (pg:0x6a,off:0xf7)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x70f7, val:  -67	  tlb_Hits: 53
+virt: 0xf6a4 (pg:0xf6,off:0xa4)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x56a4, val:    0	  tlb_Hits: 53
+virt: 0x7de4 (pg:0x7d,off:0xe4)---> -----------, *IN_P_TBLE*, -----------,  phys: 0xc2e4, val:    0	  tlb_Hits: 53
+virt: 0xf7cd (pg:0xf7,off:0xcd)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x42cd, val:    0	  tlb_Hits: 53
+virt: 0x719d (pg:0x71,off:0x9d)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x409d, val:    0	  tlb_Hits: 53
+
+virt: 0xfe38 (pg:0xfe,off:0x38)---> -----------, *IN_P_TBLE*, -----------,  phys: 0xbd38, val:    0	  tlb_Hits: 53
+virt: 0x9761 (pg:0x97,off:0x61)---> -----------, *IN_P_TBLE*, -----------,  phys: 0xb761, val:    0	  tlb_Hits: 53
+virt: 0x3ea9 (pg:0x3e,off:0xa9)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x52a9, val:    0	  tlb_Hits: 53
+virt: 0x2351 (pg:0x23,off:0x51)---> -----------, *IN_P_TBLE*, -----------,  phys: 0xbc51, val:    0	  tlb_Hits: 53
+virt: 0xa46a (pg:0xa4,off:0x6a)---> -----------, *IN_P_TBLE*, -----------,  phys: 0xb46a, val:   41	  tlb_Hits: 53
+
+virt: 0xb534 (pg:0xb5,off:0x34)---> -----------, *IN_P_TBLE*, -----------,  phys: 0xc434, val:    0	  tlb_Hits: 53
+virt: 0xf8a2 (pg:0xf8,off:0xa2)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x6ea2, val:   62	  tlb_Hits: 53
+virt: 0x8f1c (pg:0x8f,off:0x1c)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x8b1c, val:    0	  tlb_Hits: 53
+virt: 0x55bb (pg:0x55,off:0xbb)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x5ebb, val:  110	  tlb_Hits: 53
+virt: 0x4d79 (pg:0x4d,off:0x79)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x8e79, val:    0	  tlb_Hits: 53
+
+virt: 0x8e70 (pg:0x8e,off:0x70)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x3870, val:    0	  tlb_Hits: 53
+virt: 0x215d (pg:0x21,off:0x5d)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x4e5d, val:    0	  tlb_Hits: 53
+virt: 0x31a8 (pg:0x31,off:0xa8)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x79a8, val:    0	  tlb_Hits: 53
+virt: 0xbf3b (pg:0xbf,off:0x3b)---> -----------, *IN_P_TBLE*, -----------,  phys: 0xc53b, val:  -50	  tlb_Hits: 53
+virt: 0x9926 (pg:0x99,off:0x26)---> -----------, *IN_P_TBLE*, -----------,  phys: 0xd926, val:   38	  tlb_Hits: 53
+
+virt: 0x3cda (pg:0x3c,off:0xda)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x7cda, val:   15	  tlb_Hits: 53
+virt: 0xc035 (pg:0xc0,off:0x35)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x2135, val:    0	  tlb_Hits: 53
+virt: 0x1e33 (pg:0x1e,off:0x33)---> -----------, *IN_P_TBLE*, -----------,  phys: 0xe233, val: -116	  tlb_Hits: 53
+virt: 0xa826 (pg:0xa8,off:0x26)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x4426, val:   42	  tlb_Hits: 53
+virt: 0xec52 (pg:0xec,off:0x52)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x1c52, val:   59	  tlb_Hits: 53
+
+virt: 0x2415 (pg:0x24,off:0x15)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x5915, val:    0	  tlb_Hits: 53
+virt: 0xba5a (pg:0xba,off:0x5a)---> -----------, *IN_P_TBLE*, -----------,  phys: 0xdc5a, val:   46	  tlb_Hits: 53
+virt: 0xabc5 (pg:0xab,off:0xc5)---> -----------, *IN_P_TBLE*, -----------,  phys: 0xe0c5, val:    0	  tlb_Hits: 53
+virt: 0xa418 (pg:0xa4,off:0x18)---> -----------, *IN_P_TBLE*, -----------,  phys: 0xb418, val:    0	  tlb_Hits: 53
+virt: 0x6b44 (pg:0x6b,off:0x44)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x3d44, val:    0	  tlb_Hits: 53
+
+virt: 0x61a7 (pg:0x61,off:0xa7)---> -----------, *IN_P_TBLE*, -----------,  phys: 0xcda7, val:  105	  tlb_Hits: 53
+virt: 0xcadd (pg:0xca,off:0xdd)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x6add, val:    0	  tlb_Hits: 53
+virt: 0x8516 (pg:0x85,off:0x16)---> -----------, *IN_P_TBLE*, -----------,  phys: 0xee16, val:   33	  tlb_Hits: 53
+virt: 0xfe83 (pg:0xfe,off:0x83)---> -----------, *IN_P_TBLE*, -----------,  phys: 0xbd83, val:  -96	  tlb_Hits: 53
+virt: 0xea33 (pg:0xea,off:0x33)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x2933, val: -116	  tlb_Hits: 53
+
+virt: 0x243d (pg:0x24,off:0x3d)--->  *IN_TLB*  , ---------- , -----------,  phys: 0x593d, val:    0	  tlb_Hits: 54
+virt: 0x4fc4 (pg:0x4f,off:0xc4)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x41c4, val:    0	  tlb_Hits: 54
+virt: 0xaf3c (pg:0xaf,off:0x3c)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x333c, val:    0	  tlb_Hits: 54
+virt: 0xc730 (pg:0xc7,off:0x30)---> -----------, *IN_P_TBLE*, -----------,  phys: 0xa730, val:    0	  tlb_Hits: 54
+virt: 0x2957 (pg:0x29,off:0x57)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x6b57, val:   85	  tlb_Hits: 54
+
+virt: 0xe197 (pg:0xe1,off:0x97)---> -----------, *IN_P_TBLE*, -----------,  phys: 0xef97, val:  101	  tlb_Hits: 54
+virt: 0x5a9b (pg:0x5a,off:0x9b)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x8c9b, val:  -90	  tlb_Hits: 54
+virt: 0x6a5b (pg:0x6a,off:0x5b)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x705b, val: -106	  tlb_Hits: 54
+virt: 0xa740 (pg:0xa7,off:0x40)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x4c40, val:    0	  tlb_Hits: 54
+virt: 0xe36b (pg:0xe3,off:0x6b)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x856b, val:  -38	  tlb_Hits: 54
+
+virt: 0x92e6 (pg:0x92,off:0xe6)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x53e6, val:   36	  tlb_Hits: 54
+virt: 0x47fa (pg:0x47,off:0xfa)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x09fa, val:   17	  tlb_Hits: 54
+virt: 0x52f6 (pg:0x52,off:0xf6)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x93f6, val:   20	  tlb_Hits: 54
+virt: 0x2ecf (pg:0x2e,off:0xcf)---> -----------, *IN_P_TBLE*, -----------,  phys: 0xe9cf, val:  -77	  tlb_Hits: 54
+virt: 0xbd0a (pg:0xbd,off:0x a)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x070a, val:   47	  tlb_Hits: 54
+
+virt: 0x2b1c (pg:0x2b,off:0x1c)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x9c1c, val:    0	  tlb_Hits: 54
+virt: 0x775d (pg:0x77,off:0x5d)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x3f5d, val:    0	  tlb_Hits: 54
+virt: 0x5b9d (pg:0x5b,off:0x9d)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x509d, val:    0	  tlb_Hits: 54
+virt: 0xc2b7 (pg:0xc2,off:0xb7)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x7bb7, val:  -83	  tlb_Hits: 54
+virt: 0x7550 (pg:0x75,off:0x50)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x0250, val:    0	  tlb_Hits: 54
+
+virt: 0xbbc1 (pg:0xbb,off:0xc1)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x64c1, val:    0	  tlb_Hits: 54
+virt: 0x1b2d (pg:0x1b,off:0x2d)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x672d, val:    0	  tlb_Hits: 54
+virt: 0x08fd (pg:0x 8,off:0xfd)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x89fd, val:    0	  tlb_Hits: 54
+virt: 0x1e38 (pg:0x1e,off:0x38)---> -----------, *IN_P_TBLE*, -----------,  phys: 0xe238, val:    0	  tlb_Hits: 54
+virt: 0x7a1c (pg:0x7a,off:0x1c)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x5b1c, val:    0	  tlb_Hits: 54
+
+virt: 0x42af (pg:0x42,off:0xaf)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x00af, val:  -85	  tlb_Hits: 54
+virt: 0x22ec (pg:0x22,off:0xec)---> -----------, *IN_P_TBLE*, -----------,  phys: 0xb5ec, val:    0	  tlb_Hits: 54
+virt: 0x26c9 (pg:0x26,off:0xc9)---> -----------, *IN_P_TBLE*, -----------,  phys: 0xaec9, val:    0	  tlb_Hits: 54
+virt: 0xb1fb (pg:0xb1,off:0xfb)---> -----------, *IN_P_TBLE*, -----------,  phys: 0xb3fb, val:  126	  tlb_Hits: 54
+virt: 0x2f4b (pg:0x2f,off:0x4b)---> -----------, *IN_P_TBLE*, -----------,  phys: 0x0a4b, val:  -46	  tlb_Hits: 54
+
+Total addresses translated: 1000
+Page faults: 244
+Page fault rate: 0.244
+TLB hits: 54
+TLB hit rate: 0.054
+
+		.........done.
+Program ended with exit code: 0
