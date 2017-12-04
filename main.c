@@ -21,6 +21,8 @@ void *backing = NULL;
 // ith entry contains the logical page's frame number. The ith entry may contain -1 if the frame number is not present.
 int pagetable[PAGES];
 
+char main_memory[MEMORY_SIZE];
+
 // Allows for fast retrieval of physical frame numbers (Although limited in the number of physical frames it can hold).
 typedef struct {
     unsigned char logical;
@@ -32,7 +34,6 @@ int tlb_index = 0;
 // Contains various statistical information about the paging system
 typedef struct stats stats;
 struct stats{
-    stats():total_addresses(0), tlb_hits(0), page_faults(0){}
     size_t total_addresses;
     size_t tlb_hits;
     size_t page_faults;
@@ -47,9 +48,9 @@ struct stats{
 void print_stats(stats *st){
     printf("Total addresses translated: %zu", st->total_addresses);
     printf("\nPage faults: %zu", st->page_faults);
-    printf("\nPage fault rate: %0.3f", stats.page_faults / (1.0 * st->total_addresses));
+    printf("\nPage fault rate: %0.3f", st->page_faults / (1.0 * st->total_addresses));
     printf("\nTLB hits: %zu", st->tlb_hits);
-    printf("\nTLB hit rate: %0.3f", stats.tlb_hits / (1.0 * st->total_addresses));
+    printf("\nTLB hit rate: %0.3f", st->tlb_hits / (1.0 * st->total_addresses));
 }
 
 
@@ -68,6 +69,18 @@ void add_to_tlb(unsigned char logical, unsigned char physical){
 }
 
 /**
+ * Helper function to find max of two numbers
+ *
+ * @param a  - An integer
+ * @param b - Another integer to compare to a
+ *
+ */
+int max(int a, int b){
+    if(a > b) return a;
+    return b;
+}
+
+/**
  * Given a logical page, this function searches the TLB table for
  * the corresponding physical frame.
  *
@@ -77,8 +90,9 @@ void add_to_tlb(unsigned char logical, unsigned char physical){
  *
  */
 int search_tlb(int logical_page){
-    for(int i = 0; i < tlb_index; i++){
-        if(tlb[i].logical == logical_page) { return tlb[i].physical; }
+    for(int i = max((tlb_index - TLB_SIZE), 0); i < tlb_index; i++){
+        tlbentry *entry = &tlb[i % TLB_SIZE];
+        if(entry->logical == logical_page) { return entry->physical; }
     }
     return -1;
 }
@@ -95,7 +109,7 @@ void translate_logical_to_physical(FILE *input_fp){
     memset(buffer, 0, BUFFER_SIZE);
     memset(pagetable, -1, PAGES * sizeof(char));
 
-    stats st;
+    stats st = {.page_faults = 0, .tlb_hits = 0, .total_addresses = 0};
     unsigned char free_page = 0;
 
     while(fgets(buffer, BUFFER_SIZE, input_fp) != NULL){
