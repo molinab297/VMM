@@ -31,6 +31,8 @@ typedef struct {
 tlbentry tlb[TLB_SIZE];
 int tlb_index = 0;
 
+typedef enum hit_type {TLB_HIT, PAGE_HIT, BSTORE_HIT} hit_type;
+
 // Contains various statistical information about the paging system
 typedef struct stats stats;
 struct stats{
@@ -113,38 +115,42 @@ void translate_logical_to_physical(FILE *input_fp){
     unsigned char free_page = 0;
 
     while(fgets(buffer, BUFFER_SIZE, input_fp) != NULL){
+        hit_type type;
         st.total_addresses++;
         char *ptr;
         int logical_address = strtol(buffer, &ptr, 10); // Convert logical address string to int
         printf("virtual address: 0x%4x", logical_address);
         int offset = logical_address & OFFSET_MASK;
         int logical_page = (logical_address >> OFFSET_BITS) & PAGE_MASK;
-        printf("(pg:0x%3x,off:0x%3x--->", logical_page, offset);
+        printf("(pg:0x%3x,off:0x%3x---> ", logical_page, offset);
 
         int physical_page = search_tlb(logical_page);
         if(physical_page != -1){
-            printf("TLB hit...");
+            type = TLB_HIT;
             st.tlb_hits++;
+        } else if((physical_page = pagetable[logical_page]) != -1){
+            type = PAGE_HIT;
+            add_to_tlb(logical_page, physical_page);
         } else{
-            // If a page fault occurs
-            if((physical_page = pagetable[logical_page]) == -1){
-                printf("page FAULT...");
-                st.page_faults++;
-                physical_page = free_page;
-                free_page++;
-
-                // Copy page from backing file into physical memory
-                memcpy(main_memory + physical_page * PAGE_SIZE, (char*)backing + logical_page * PAGE_SIZE, PAGE_SIZE);
-
-                pagetable[logical_page] = physical_page;
-            }
+            type = BSTORE_HIT;
+            st.page_faults++;
+            physical_page = free_page;
+            free_page++;
+            // Copy page from secondary storage into physical memory
+            memcpy(main_memory + physical_page * PAGE_SIZE, (char*)backing + logical_page * PAGE_SIZE, PAGE_SIZE);
+            pagetable[logical_page] = physical_page;
             add_to_tlb(logical_page, physical_page);
         }
 
         int physical_address = (physical_page << OFFSET_BITS) | offset;
         char value = main_memory[physical_page * PAGE_SIZE + offset];
 
-        printf("physical address: 0x%4x, val: %d\n", physical_address, value);
+
+        if(type == TLB_HIT){ printf("%-11s, -----------, -----------,  ", " *IN_TLB*  "); }
+        else if(type == PAGE_HIT) { printf("-----------, %-11s, -----------,  ", "*IN_P_TBLE*"); }
+        else { printf("-----------, -----------, %-11s,  ", "*IN_BACK_S*"); }
+
+        printf("physical address: 0x%04x, val: %3d   tlb_Hits:  %zu\n", physical_address, value, st.tlb_hits);
         if(st.total_addresses % 5 == 0) { printf("\n"); }
     }
     // Display TLB hits and page fault stats
